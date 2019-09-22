@@ -80,7 +80,7 @@ mkd_outside_style = {
 
 # mapbox_accesstoken
 
-mapbox_accesstoken = "pk.eyJ1IjoibWF6YXJpbW9ubyIsImEiOiJjanA5Y3IxaWsxeGtmM3dweDh5bjgydGFxIn0.3vrfsqZ_kGPGhi4_npruGg"
+mapbox_accesstoken = "input_your_token"
 
 
 # back_to_index
@@ -1439,7 +1439,7 @@ about_dash = html.Div(
                                         ),
                                         # mapboxのアクセストークンを読み込む
                                         px.set_mapbox_access_token(
-                                            "pk.eyJ1IjoibWF6YXJpbW9ubyIsImEiOiJjanA5Y3IxaWsxeGtmM3dweDh5bjgydGFxIn0.3vrfsqZ_kGPGhi4_npruGg"
+                                            "input-your-token"
                                         ),
                                         # mapのコールバック先のGraphクラス
                                         dcc.Graph(id="fukuoka-map"),
