@@ -1,0 +1,14 @@
+dash
+dash_core_components
+dash_html_components
+dash_table
+dash_canvas
+dash_cytoscape
+dash_bio
+plotly
+pandas
+numpy
+scikit-image
+six
+gunicorn
+lxml

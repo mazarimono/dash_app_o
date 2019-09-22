@@ -1,0 +1,929 @@
+,Year,Country,Type,Value
+0,1990,Australia,elderly_pop_ratio,0.1109503
+1,1995,Australia,elderly_pop_ratio,0.1190225
+2,2000,Australia,elderly_pop_ratio,0.1242314
+3,2001,Australia,elderly_pop_ratio,0.12549939999999998
+4,2002,Australia,elderly_pop_ratio,0.126494
+5,2003,Australia,elderly_pop_ratio,0.1273262
+6,2004,Australia,elderly_pop_ratio,0.1283801
+7,2005,Australia,elderly_pop_ratio,0.1294543
+8,2006,Australia,elderly_pop_ratio,0.1302626
+9,2007,Australia,elderly_pop_ratio,0.1314096
+10,2008,Australia,elderly_pop_ratio,0.13200620000000002
+11,2009,Australia,elderly_pop_ratio,0.1332749
+12,2010,Australia,elderly_pop_ratio,0.13557550000000002
+13,2011,Australia,elderly_pop_ratio,0.1382274
+14,2012,Australia,elderly_pop_ratio,0.1415875
+15,2013,Australia,elderly_pop_ratio,0.14433970000000002
+16,1990,Austria,elderly_pop_ratio,0.14934
+17,1995,Austria,elderly_pop_ratio,0.1512837
+18,2000,Austria,elderly_pop_ratio,0.154257
+19,2001,Austria,elderly_pop_ratio,0.1546345
+20,2002,Austria,elderly_pop_ratio,0.1546417
+21,2003,Austria,elderly_pop_ratio,0.1544418
+22,2004,Austria,elderly_pop_ratio,0.1571051
+23,2005,Austria,elderly_pop_ratio,0.16222720000000002
+24,2006,Austria,elderly_pop_ratio,0.1666498
+25,2007,Austria,elderly_pop_ratio,0.170263
+26,2008,Austria,elderly_pop_ratio,0.17262260000000001
+27,2009,Austria,elderly_pop_ratio,0.1752617
+28,2010,Austria,elderly_pop_ratio,0.1767241
+29,2011,Austria,elderly_pop_ratio,0.17689560000000001
+30,2012,Austria,elderly_pop_ratio,0.1794689
+31,2013,Austria,elderly_pop_ratio,0.182115
+32,1990,Belgium,elderly_pop_ratio,0.14922370000000001
+33,1995,Belgium,elderly_pop_ratio,0.1589328
+34,2000,Belgium,elderly_pop_ratio,0.1680198
+35,2001,Belgium,elderly_pop_ratio,0.16896420000000006
+36,2002,Belgium,elderly_pop_ratio,0.16978870000000001
+37,2003,Belgium,elderly_pop_ratio,0.17070470000000001
+38,2004,Belgium,elderly_pop_ratio,0.171748
+39,2005,Belgium,elderly_pop_ratio,0.1721847
+40,2006,Belgium,elderly_pop_ratio,0.1715534
+41,2007,Belgium,elderly_pop_ratio,0.1708021
+42,2008,Belgium,elderly_pop_ratio,0.1707055
+43,2009,Belgium,elderly_pop_ratio,0.17120999999999997
+44,2010,Belgium,elderly_pop_ratio,0.171394
+45,2011,Belgium,elderly_pop_ratio,0.1723479
+46,2012,Belgium,elderly_pop_ratio,0.1745372
+47,2013,Belgium,elderly_pop_ratio,0.1766933
+48,1990,Canada,elderly_pop_ratio,0.112827
+49,1995,Canada,elderly_pop_ratio,0.11974320000000001
+50,2000,Canada,elderly_pop_ratio,0.1255728
+51,2001,Canada,elderly_pop_ratio,0.12644819999999998
+52,2002,Canada,elderly_pop_ratio,0.1272997
+53,2003,Canada,elderly_pop_ratio,0.1284566
+54,2004,Canada,elderly_pop_ratio,0.12966060000000001
+55,2005,Canada,elderly_pop_ratio,0.1308672
+56,2006,Canada,elderly_pop_ratio,0.1327605
+57,2007,Canada,elderly_pop_ratio,0.1345915
+58,2008,Canada,elderly_pop_ratio,0.1367557
+59,2009,Canada,elderly_pop_ratio,0.13907470000000002
+60,2010,Canada,elderly_pop_ratio,0.1415542
+61,2011,Canada,elderly_pop_ratio,0.1445124
+62,2012,Canada,elderly_pop_ratio,0.1487027
+63,2013,Canada,elderly_pop_ratio,0.15306940000000002
+64,1990,Czech Republic,elderly_pop_ratio,0.1456867
+65,1995,Czech Republic,elderly_pop_ratio,0.1473122
+66,2000,Czech Republic,elderly_pop_ratio,0.1532366
+67,2001,Czech Republic,elderly_pop_ratio,0.155422
+68,2002,Czech Republic,elderly_pop_ratio,0.1559395
+69,2003,Czech Republic,elderly_pop_ratio,0.1566439
+70,2004,Czech Republic,elderly_pop_ratio,0.15772670000000003
+71,2005,Czech Republic,elderly_pop_ratio,0.1591213
+72,2006,Czech Republic,elderly_pop_ratio,0.1609533
+73,2007,Czech Republic,elderly_pop_ratio,0.1630105
+74,2008,Czech Republic,elderly_pop_ratio,0.1648609
+75,2009,Czech Republic,elderly_pop_ratio,0.16691579999999998
+76,2010,Czech Republic,elderly_pop_ratio,0.1685229
+77,2011,Czech Republic,elderly_pop_ratio,0.17029260000000002
+78,2012,Czech Republic,elderly_pop_ratio,0.1728034
+79,2013,Czech Republic,elderly_pop_ratio,0.1760442
+80,1990,Denmark,elderly_pop_ratio,0.1531287
+81,1995,Denmark,elderly_pop_ratio,0.1614479
+82,2000,Denmark,elderly_pop_ratio,0.17238320000000001
+83,2001,Denmark,elderly_pop_ratio,0.1764162
+84,2002,Denmark,elderly_pop_ratio,0.1806539
+85,2003,Denmark,elderly_pop_ratio,0.1858379
+86,2004,Denmark,elderly_pop_ratio,0.19271190000000002
+87,2005,Denmark,elderly_pop_ratio,0.1922634
+88,2006,Denmark,elderly_pop_ratio,0.19736789999999999
+89,2007,Denmark,elderly_pop_ratio,0.2023536
+90,2008,Denmark,elderly_pop_ratio,0.2048335
+91,2009,Denmark,elderly_pop_ratio,0.2079508
+92,2010,Denmark,elderly_pop_ratio,0.2098146
+93,2011,Denmark,elderly_pop_ratio,0.2099465
+94,2012,Denmark,elderly_pop_ratio,0.2110107
+95,2013,Denmark,elderly_pop_ratio,0.2127253
+96,1990,Finland,elderly_pop_ratio,0.135758
+97,1995,Finland,elderly_pop_ratio,0.1514558
+98,2000,Finland,elderly_pop_ratio,0.16643899999999998
+99,2001,Finland,elderly_pop_ratio,0.1692231
+100,2002,Finland,elderly_pop_ratio,0.1696281
+101,2003,Finland,elderly_pop_ratio,0.16871760000000002
+102,2004,Finland,elderly_pop_ratio,0.16692479999999998
+103,2005,Finland,elderly_pop_ratio,0.16559539999999998
+104,2006,Finland,elderly_pop_ratio,0.1659656
+105,2007,Finland,elderly_pop_ratio,0.1647235
+106,2008,Finland,elderly_pop_ratio,0.1647863
+107,2009,Finland,elderly_pop_ratio,0.16664920000000003
+108,2010,Finland,elderly_pop_ratio,0.1695096
+109,2011,Finland,elderly_pop_ratio,0.17229020000000003
+110,2012,Finland,elderly_pop_ratio,0.1749094
+111,2013,Finland,elderly_pop_ratio,0.1791146
+112,1990,France,elderly_pop_ratio,0.1337746
+113,1995,France,elderly_pop_ratio,0.14212999999999998
+114,2000,France,elderly_pop_ratio,0.1491499
+115,2001,France,elderly_pop_ratio,0.1507325
+116,2002,France,elderly_pop_ratio,0.15247070000000001
+117,2003,France,elderly_pop_ratio,0.1546135
+118,2004,France,elderly_pop_ratio,0.1572303
+119,2005,France,elderly_pop_ratio,0.1593595
+120,2006,France,elderly_pop_ratio,0.1625214
+121,2007,France,elderly_pop_ratio,0.1648705
+122,2008,France,elderly_pop_ratio,0.16638429999999998
+123,2009,France,elderly_pop_ratio,0.1687582
+124,2010,France,elderly_pop_ratio,0.1726645
+125,2011,France,elderly_pop_ratio,0.1781737
+126,2012,France,elderly_pop_ratio,0.18452159999999998
+127,2013,France,elderly_pop_ratio,0.1906601
+128,1990,Germany,elderly_pop_ratio,0.1250658
+129,1995,Germany,elderly_pop_ratio,0.1321973
+130,2000,Germany,elderly_pop_ratio,0.1384135
+131,2001,Germany,elderly_pop_ratio,0.1382226
+132,2002,Germany,elderly_pop_ratio,0.13877689999999998
+133,2003,Germany,elderly_pop_ratio,0.1391703
+134,2004,Germany,elderly_pop_ratio,0.13989390000000002
+135,2005,Germany,elderly_pop_ratio,0.1412161
+136,2006,Germany,elderly_pop_ratio,0.1430708
+137,2007,Germany,elderly_pop_ratio,0.1448915
+138,2008,Germany,elderly_pop_ratio,0.1472276
+139,2009,Germany,elderly_pop_ratio,0.1504446
+140,2010,Germany,elderly_pop_ratio,0.1537319
+141,2011,Germany,elderly_pop_ratio,0.15902329999999998
+142,2012,Germany,elderly_pop_ratio,0.1650319
+143,2013,Germany,elderly_pop_ratio,0.1708978
+144,1990,Greece,elderly_pop_ratio,0.1573108
+145,1995,Greece,elderly_pop_ratio,0.1584662
+146,2000,Greece,elderly_pop_ratio,0.15806810000000002
+147,2001,Greece,elderly_pop_ratio,0.1585776
+148,2002,Greece,elderly_pop_ratio,0.153777
+149,2003,Greece,elderly_pop_ratio,0.15425129999999998
+150,2004,Greece,elderly_pop_ratio,0.15458819999999998
+151,2005,Greece,elderly_pop_ratio,0.1545791
+152,2006,Greece,elderly_pop_ratio,0.1542509
+153,2007,Greece,elderly_pop_ratio,0.154497
+154,2008,Greece,elderly_pop_ratio,0.161678
+155,2009,Greece,elderly_pop_ratio,0.1575582
+156,2010,Greece,elderly_pop_ratio,0.1594633
+157,2011,Greece,elderly_pop_ratio,0.16135370000000002
+158,2012,Greece,elderly_pop_ratio,0.166004
+159,2013,Greece,elderly_pop_ratio,0.1696073
+160,1990,Hungary,elderly_pop_ratio,0.1373913
+161,1995,Hungary,elderly_pop_ratio,0.1512176
+162,2000,Hungary,elderly_pop_ratio,0.16631859999999998
+163,2001,Hungary,elderly_pop_ratio,0.1724201
+164,2002,Hungary,elderly_pop_ratio,0.17563510000000002
+165,2003,Hungary,elderly_pop_ratio,0.17874000000000007
+166,2004,Hungary,elderly_pop_ratio,0.18142350000000002
+167,2005,Hungary,elderly_pop_ratio,0.1836293
+168,2006,Hungary,elderly_pop_ratio,0.1852484
+169,2007,Hungary,elderly_pop_ratio,0.1860611
+170,2008,Hungary,elderly_pop_ratio,0.18675129999999998
+171,2009,Hungary,elderly_pop_ratio,0.1880197
+172,2010,Hungary,elderly_pop_ratio,0.19097999999999998
+173,2011,Hungary,elderly_pop_ratio,0.1949838
+174,2012,Hungary,elderly_pop_ratio,0.1990983
+175,2013,Hungary,elderly_pop_ratio,
+176,1990,Ireland,elderly_pop_ratio,0.1335068
+177,1995,Ireland,elderly_pop_ratio,0.1421241
+178,2000,Ireland,elderly_pop_ratio,0.1506219
+179,2001,Ireland,elderly_pop_ratio,0.1519435
+180,2002,Ireland,elderly_pop_ratio,0.15316470000000001
+181,2003,Ireland,elderly_pop_ratio,0.1542942
+182,2004,Ireland,elderly_pop_ratio,0.15553579999999997
+183,2005,Ireland,elderly_pop_ratio,0.1570338
+184,2006,Ireland,elderly_pop_ratio,0.1586734
+185,2007,Ireland,elderly_pop_ratio,0.1606006
+186,2008,Ireland,elderly_pop_ratio,0.1625822
+187,2009,Ireland,elderly_pop_ratio,0.1648209
+188,2010,Ireland,elderly_pop_ratio,0.16670000000000001
+189,2011,Ireland,elderly_pop_ratio,0.1680706
+190,2012,Ireland,elderly_pop_ratio,0.1702621
+191,2013,Ireland,elderly_pop_ratio,0.17355710000000002
+192,1990,Israel,elderly_pop_ratio,
+193,1995,Israel,elderly_pop_ratio,
+194,2000,Israel,elderly_pop_ratio,
+195,2001,Israel,elderly_pop_ratio,
+196,2002,Israel,elderly_pop_ratio,
+197,2003,Israel,elderly_pop_ratio,
+198,2004,Israel,elderly_pop_ratio,
+199,2005,Israel,elderly_pop_ratio,
+200,2006,Israel,elderly_pop_ratio,
+201,2007,Israel,elderly_pop_ratio,
+202,2008,Israel,elderly_pop_ratio,
+203,2009,Israel,elderly_pop_ratio,
+204,2010,Israel,elderly_pop_ratio,
+205,2011,Israel,elderly_pop_ratio,
+206,2012,Israel,elderly_pop_ratio,
+207,2013,Israel,elderly_pop_ratio,
+208,1990,Isreal,elderly_pop_ratio,0.1140966
+209,1995,Isreal,elderly_pop_ratio,0.1142088
+210,2000,Isreal,elderly_pop_ratio,0.11207280000000001
+211,2001,Isreal,elderly_pop_ratio,0.11171760000000001
+212,2002,Isreal,elderly_pop_ratio,0.111304
+213,2003,Isreal,elderly_pop_ratio,0.11103289999999999
+214,2004,Isreal,elderly_pop_ratio,0.1111688
+215,2005,Isreal,elderly_pop_ratio,0.11101169999999999
+216,2006,Isreal,elderly_pop_ratio,0.10923949999999999
+217,2007,Isreal,elderly_pop_ratio,0.1076375
+218,2008,Isreal,elderly_pop_ratio,0.107846
+219,2009,Isreal,elderly_pop_ratio,0.1100498
+220,2010,Isreal,elderly_pop_ratio,0.1130895
+221,2011,Isreal,elderly_pop_ratio,0.1161993
+222,2012,Isreal,elderly_pop_ratio,0.11981510000000001
+223,2013,Isreal,elderly_pop_ratio,0.1236855
+224,1990,Italy,elderly_pop_ratio,0.1063579
+225,1995,Italy,elderly_pop_ratio,0.1125654
+226,2000,Italy,elderly_pop_ratio,0.1155761
+227,2001,Italy,elderly_pop_ratio,0.1159394
+228,2002,Italy,elderly_pop_ratio,0.11641439999999999
+229,2003,Italy,elderly_pop_ratio,0.1173117
+230,2004,Italy,elderly_pop_ratio,0.1171925
+231,2005,Italy,elderly_pop_ratio,0.1173276
+232,2006,Italy,elderly_pop_ratio,0.1158563
+233,2007,Italy,elderly_pop_ratio,0.1153772
+234,2008,Italy,elderly_pop_ratio,0.1150225
+235,2009,Italy,elderly_pop_ratio,0.1176585
+236,2010,Italy,elderly_pop_ratio,0.1214443
+237,2011,Italy,elderly_pop_ratio,0.1245964
+238,2012,Italy,elderly_pop_ratio,0.12783899999999998
+239,2013,Italy,elderly_pop_ratio,0.1308329
+240,1990,Japan,elderly_pop_ratio,0.1489299
+241,1995,Japan,elderly_pop_ratio,0.1671611
+242,2000,Japan,elderly_pop_ratio,0.18192049999999998
+243,2001,Japan,elderly_pop_ratio,0.1844192
+244,2002,Japan,elderly_pop_ratio,0.187528
+245,2003,Japan,elderly_pop_ratio,0.1916369
+246,2004,Japan,elderly_pop_ratio,0.1898292
+247,2005,Japan,elderly_pop_ratio,0.19292359999999997
+248,2006,Japan,elderly_pop_ratio,0.1960064
+249,2007,Japan,elderly_pop_ratio,0.1981438
+250,2008,Japan,elderly_pop_ratio,0.1992204
+251,2009,Japan,elderly_pop_ratio,0.2002777
+252,2010,Japan,elderly_pop_ratio,0.2014069
+253,2011,Japan,elderly_pop_ratio,0.2029242
+254,2012,Japan,elderly_pop_ratio,0.2061767
+255,2013,Japan,elderly_pop_ratio,0.209155
+256,1990,Korea,elderly_pop_ratio,0.12076599999999998
+257,1995,Korea,elderly_pop_ratio,0.14555229999999997
+258,2000,Korea,elderly_pop_ratio,0.1736524
+259,2001,Korea,elderly_pop_ratio,0.17965920000000002
+260,2002,Korea,elderly_pop_ratio,0.18541220000000005
+261,2003,Korea,elderly_pop_ratio,0.19049670000000007
+262,2004,Korea,elderly_pop_ratio,0.1948201
+263,2005,Korea,elderly_pop_ratio,0.2016232
+264,2006,Korea,elderly_pop_ratio,0.2082179
+265,2007,Korea,elderly_pop_ratio,0.2149471
+266,2008,Korea,elderly_pop_ratio,0.2209692
+267,2009,Korea,elderly_pop_ratio,0.22747240000000002
+268,2010,Korea,elderly_pop_ratio,0.2302412
+269,2011,Korea,elderly_pop_ratio,0.2328031
+270,2012,Korea,elderly_pop_ratio,0.2414853
+271,2013,Korea,elderly_pop_ratio,0.2505774
+272,1990,Luxembourg,elderly_pop_ratio,
+273,1995,Luxembourg,elderly_pop_ratio,
+274,2000,Luxembourg,elderly_pop_ratio,
+275,2001,Luxembourg,elderly_pop_ratio,
+276,2002,Luxembourg,elderly_pop_ratio,
+277,2003,Luxembourg,elderly_pop_ratio,
+278,2004,Luxembourg,elderly_pop_ratio,
+279,2005,Luxembourg,elderly_pop_ratio,
+280,2006,Luxembourg,elderly_pop_ratio,
+281,2007,Luxembourg,elderly_pop_ratio,
+282,2008,Luxembourg,elderly_pop_ratio,
+283,2009,Luxembourg,elderly_pop_ratio,
+284,2010,Luxembourg,elderly_pop_ratio,
+285,2011,Luxembourg,elderly_pop_ratio,
+286,2012,Luxembourg,elderly_pop_ratio,
+287,2013,Luxembourg,elderly_pop_ratio,
+288,1990,Luxenbourg,elderly_pop_ratio,0.05120412
+289,1995,Luxenbourg,elderly_pop_ratio,0.058914970000000004
+290,2000,Luxenbourg,elderly_pop_ratio,0.07221936999999999
+291,2001,Luxenbourg,elderly_pop_ratio,0.07556100999999998
+292,2002,Luxenbourg,elderly_pop_ratio,0.07920836
+293,2003,Luxenbourg,elderly_pop_ratio,0.08291214
+294,2004,Luxenbourg,elderly_pop_ratio,0.08671991
+295,2005,Luxenbourg,elderly_pop_ratio,0.09071077000000001
+296,2006,Luxenbourg,elderly_pop_ratio,0.09493864
+297,2007,Luxenbourg,elderly_pop_ratio,0.09933637
+298,2008,Luxenbourg,elderly_pop_ratio,0.1032133
+299,2009,Luxenbourg,elderly_pop_ratio,0.10686489999999998
+300,2010,Luxenbourg,elderly_pop_ratio,0.1103511
+301,2011,Luxenbourg,elderly_pop_ratio,0.113621
+302,2012,Luxenbourg,elderly_pop_ratio,0.117783
+303,2013,Luxenbourg,elderly_pop_ratio,0.1222222
+304,1990,Netherlands,elderly_pop_ratio,0.13420189999999999
+305,1995,Netherlands,elderly_pop_ratio,0.14006
+306,2000,Netherlands,elderly_pop_ratio,0.1407289
+307,2001,Netherlands,elderly_pop_ratio,0.1390714
+308,2002,Netherlands,elderly_pop_ratio,0.1398476
+309,2003,Netherlands,elderly_pop_ratio,0.14066670000000003
+310,2004,Netherlands,elderly_pop_ratio,0.13978020000000002
+311,2005,Netherlands,elderly_pop_ratio,0.1409367
+312,2006,Netherlands,elderly_pop_ratio,0.140695
+313,2007,Netherlands,elderly_pop_ratio,0.1402772
+314,2008,Netherlands,elderly_pop_ratio,0.1399339
+315,2009,Netherlands,elderly_pop_ratio,0.139615
+316,2010,Netherlands,elderly_pop_ratio,0.1394145
+317,2011,Netherlands,elderly_pop_ratio,0.1389215
+318,2012,Netherlands,elderly_pop_ratio,0.1396456
+319,2013,Netherlands,elderly_pop_ratio,0.1396648
+320,1990,New Zealand,elderly_pop_ratio,0.1631691
+321,1995,New Zealand,elderly_pop_ratio,0.1593732
+322,2000,New Zealand,elderly_pop_ratio,0.1516366
+323,2001,New Zealand,elderly_pop_ratio,0.1501994
+324,2002,New Zealand,elderly_pop_ratio,0.14852359999999998
+325,2003,New Zealand,elderly_pop_ratio,0.1476775
+326,2004,New Zealand,elderly_pop_ratio,0.147224
+327,2005,New Zealand,elderly_pop_ratio,0.1471018
+328,2006,New Zealand,elderly_pop_ratio,0.1467496
+329,2007,New Zealand,elderly_pop_ratio,0.1463156
+330,2008,New Zealand,elderly_pop_ratio,0.1466023
+331,2009,New Zealand,elderly_pop_ratio,0.14781180000000002
+332,2010,New Zealand,elderly_pop_ratio,0.14972390000000002
+333,2011,New Zealand,elderly_pop_ratio,0.1524329
+334,2012,New Zealand,elderly_pop_ratio,0.15521020000000002
+335,2013,New Zealand,elderly_pop_ratio,0.157874
+336,1990,Norway,elderly_pop_ratio,0.1283906
+337,1995,Norway,elderly_pop_ratio,0.13242920000000002
+338,2000,Norway,elderly_pop_ratio,0.1358494
+339,2001,Norway,elderly_pop_ratio,0.13626970000000002
+340,2002,Norway,elderly_pop_ratio,0.13682550000000002
+341,2003,Norway,elderly_pop_ratio,0.13779740000000001
+342,2004,Norway,elderly_pop_ratio,0.1394143
+343,2005,Norway,elderly_pop_ratio,0.1415186
+344,2006,Norway,elderly_pop_ratio,0.1437288
+345,2007,Norway,elderly_pop_ratio,0.1459915
+346,2008,Norway,elderly_pop_ratio,0.1485699
+347,2009,Norway,elderly_pop_ratio,0.1515434
+348,2010,Norway,elderly_pop_ratio,0.1544734
+349,2011,Norway,elderly_pop_ratio,0.1590874
+350,2012,Norway,elderly_pop_ratio,0.1653454
+351,2013,Norway,elderly_pop_ratio,0.1708885
+352,1990,Poland,elderly_pop_ratio,0.1112102
+353,1995,Poland,elderly_pop_ratio,0.11526109999999999
+354,2000,Poland,elderly_pop_ratio,0.11755710000000001
+355,2001,Poland,elderly_pop_ratio,0.118696
+356,2002,Poland,elderly_pop_ratio,0.1183994
+357,2003,Poland,elderly_pop_ratio,0.1181218
+358,2004,Poland,elderly_pop_ratio,0.1185566
+359,2005,Poland,elderly_pop_ratio,0.1200803
+360,2006,Poland,elderly_pop_ratio,0.1222578
+361,2007,Poland,elderly_pop_ratio,0.1243667
+362,2008,Poland,elderly_pop_ratio,0.1255927
+363,2009,Poland,elderly_pop_ratio,0.1274346
+364,2010,Poland,elderly_pop_ratio,0.1295194
+365,2011,Poland,elderly_pop_ratio,0.1323221
+366,2012,Poland,elderly_pop_ratio,0.13679360000000002
+367,2013,Poland,elderly_pop_ratio,0.14092429999999997
+368,1990,Portugal,elderly_pop_ratio,0.1009966
+369,1995,Portugal,elderly_pop_ratio,0.1119007
+370,2000,Portugal,elderly_pop_ratio,0.12228149999999999
+371,2001,Portugal,elderly_pop_ratio,0.1246242
+372,2002,Portugal,elderly_pop_ratio,0.127171
+373,2003,Portugal,elderly_pop_ratio,0.1286032
+374,2004,Portugal,elderly_pop_ratio,0.130461
+375,2005,Portugal,elderly_pop_ratio,0.132072
+376,2006,Portugal,elderly_pop_ratio,0.1335099
+377,2007,Portugal,elderly_pop_ratio,0.134353
+378,2008,Portugal,elderly_pop_ratio,0.1346679
+379,2009,Portugal,elderly_pop_ratio,0.134878
+380,2010,Portugal,elderly_pop_ratio,0.1344601
+381,2011,Portugal,elderly_pop_ratio,0.1363495
+382,2012,Portugal,elderly_pop_ratio,0.14023979999999997
+383,2013,Portugal,elderly_pop_ratio,0.1447198
+384,1990,Spain,elderly_pop_ratio,0.1558484
+385,1995,Spain,elderly_pop_ratio,0.1523086
+386,2000,Spain,elderly_pop_ratio,0.1481704
+387,2001,Spain,elderly_pop_ratio,0.1480306
+388,2002,Spain,elderly_pop_ratio,0.14815440000000002
+389,2003,Spain,elderly_pop_ratio,0.1486789
+390,2004,Spain,elderly_pop_ratio,0.1496044
+391,2005,Spain,elderly_pop_ratio,0.150895
+392,2006,Spain,elderly_pop_ratio,0.1524452
+393,2007,Spain,elderly_pop_ratio,0.1545185
+394,2008,Spain,elderly_pop_ratio,0.15732220000000002
+395,2009,Spain,elderly_pop_ratio,0.1609926
+396,2010,Spain,elderly_pop_ratio,0.1655322
+397,2011,Spain,elderly_pop_ratio,0.1707064
+398,2012,Spain,elderly_pop_ratio,0.17596889999999998
+399,2013,Spain,elderly_pop_ratio,0.18045950000000002
+400,1990,Sweden,elderly_pop_ratio,0.13413570000000002
+401,1995,Sweden,elderly_pop_ratio,0.14920429999999998
+402,2000,Sweden,elderly_pop_ratio,0.1618579
+403,2001,Sweden,elderly_pop_ratio,0.1645583
+404,2002,Sweden,elderly_pop_ratio,0.1665916
+405,2003,Sweden,elderly_pop_ratio,0.16843029999999998
+406,2004,Sweden,elderly_pop_ratio,0.17061329999999997
+407,2005,Sweden,elderly_pop_ratio,0.17271060000000002
+408,2006,Sweden,elderly_pop_ratio,0.1745016
+409,2007,Sweden,elderly_pop_ratio,0.1763279
+410,2008,Sweden,elderly_pop_ratio,0.1784712
+411,2009,Sweden,elderly_pop_ratio,0.18114149999999998
+412,2010,Sweden,elderly_pop_ratio,0.1847526
+413,2011,Sweden,elderly_pop_ratio,0.18868310000000002
+414,2012,Sweden,elderly_pop_ratio,0.1921213
+415,2013,Sweden,elderly_pop_ratio,0.1961525
+416,1990,Switzerland,elderly_pop_ratio,0.1778171
+417,1995,Switzerland,elderly_pop_ratio,0.174661
+418,2000,Switzerland,elderly_pop_ratio,0.1726444
+419,2001,Switzerland,elderly_pop_ratio,0.172154
+420,2002,Switzerland,elderly_pop_ratio,0.1717575
+421,2003,Switzerland,elderly_pop_ratio,0.17163250000000002
+422,2004,Switzerland,elderly_pop_ratio,0.17210070000000002
+423,2005,Switzerland,elderly_pop_ratio,0.1727495
+424,2006,Switzerland,elderly_pop_ratio,0.17327289999999998
+425,2007,Switzerland,elderly_pop_ratio,0.174345
+426,2008,Switzerland,elderly_pop_ratio,0.17644359999999998
+427,2009,Switzerland,elderly_pop_ratio,0.1793758
+428,2010,Switzerland,elderly_pop_ratio,0.18276679999999998
+429,2011,Switzerland,elderly_pop_ratio,0.1863601
+430,2012,Switzerland,elderly_pop_ratio,0.1897681
+431,2013,Switzerland,elderly_pop_ratio,0.1990842
+432,1990,United Kingdom,elderly_pop_ratio,0.1402791
+433,1995,United Kingdom,elderly_pop_ratio,0.1516561
+434,2000,United Kingdom,elderly_pop_ratio,0.16078099999999998
+435,2001,United Kingdom,elderly_pop_ratio,0.1618941
+436,2002,United Kingdom,elderly_pop_ratio,0.1629036
+437,2003,United Kingdom,elderly_pop_ratio,0.16366239999999999
+438,2004,United Kingdom,elderly_pop_ratio,0.16455460000000002
+439,2005,United Kingdom,elderly_pop_ratio,0.1653259
+440,2006,United Kingdom,elderly_pop_ratio,0.1653568
+441,2007,United Kingdom,elderly_pop_ratio,0.1654901
+442,2008,United Kingdom,elderly_pop_ratio,0.1663101
+443,2009,United Kingdom,elderly_pop_ratio,0.16738109999999998
+444,2010,United Kingdom,elderly_pop_ratio,0.16853020000000002
+445,2011,United Kingdom,elderly_pop_ratio,0.1711393
+446,2012,United Kingdom,elderly_pop_ratio,0.1752355
+447,2013,United Kingdom,elderly_pop_ratio,0.17949880000000001
+448,1990,United States,elderly_pop_ratio,0.12517799999999998
+449,1995,United States,elderly_pop_ratio,0.1268195
+450,2000,United States,elderly_pop_ratio,0.1242886
+451,2001,United States,elderly_pop_ratio,0.12383910000000001
+452,2002,United States,elderly_pop_ratio,0.1235017
+453,2003,United States,elderly_pop_ratio,0.1236213
+454,2004,United States,elderly_pop_ratio,0.123643
+455,2005,United States,elderly_pop_ratio,0.1240194
+456,2006,United States,elderly_pop_ratio,0.124553
+457,2007,United States,elderly_pop_ratio,0.1255704
+458,2008,United States,elderly_pop_ratio,0.12751849999999998
+459,2009,United States,elderly_pop_ratio,0.1291618
+460,2010,United States,elderly_pop_ratio,0.1308542
+461,2011,United States,elderly_pop_ratio,0.1327037
+462,2012,United States,elderly_pop_ratio,0.13741879999999998
+463,2013,United States,elderly_pop_ratio,0.14130589999999998
+464,1990,Australia,ratio_over65,0.15057915057915058
+465,1995,Australia,ratio_over65,0.16559246405552802
+466,2000,Australia,ratio_over65,0.16180517336268574
+467,2001,Australia,ratio_over65,0.16983304548071387
+468,2002,Australia,ratio_over65,0.15276967930029153
+469,2003,Australia,ratio_over65,0.16409623689080816
+470,2004,Australia,ratio_over65,0.1610865445356917
+471,2005,Australia,ratio_over65,0.16349108789182545
+472,2006,Australia,ratio_over65,0.14169787765293385
+473,2007,Australia,ratio_over65,0.15346225826575172
+474,2008,Australia,ratio_over65,0.16214335421016005
+475,2009,Australia,ratio_over65,0.14966442953020134
+476,2010,Australia,ratio_over65,0.16148148148148148
+477,2011,Australia,ratio_over65,0.1808927173061864
+478,2012,Australia,ratio_over65,0.1886066204772902
+479,2013,Australia,ratio_over65,0.2312236286919831
+480,1990,Austria,ratio_over65,0.17843388960205392
+481,1995,Austria,ratio_over65,0.17603305785123968
+482,2000,Austria,ratio_over65,0.19467213114754095
+483,2001,Austria,ratio_over65,0.1941544885177453
+484,2002,Austria,ratio_over65,0.2207112970711297
+485,2003,Austria,ratio_over65,0.2126745435016112
+486,2004,Austria,ratio_over65,0.20387243735763094
+487,2005,Austria,ratio_over65,0.19661458333333331
+488,2006,Austria,ratio_over65,0.2136986301369863
+489,2007,Austria,ratio_over65,0.2098408104196816
+490,2008,Austria,ratio_over65,0.2533136966126657
+491,2009,Austria,ratio_over65,0.25118483412322273
+492,2010,Austria,ratio_over65,0.2536231884057971
+493,2011,Austria,ratio_over65,0.2868068833652008
+494,2012,Austria,ratio_over65,0.2900188323917137
+495,2013,Austria,ratio_over65,0.3120879120879121
+496,1990,Belgium,ratio_over65,0.16902834008097167
+497,1995,Belgium,ratio_over65,0.16356107660455488
+498,2000,Belgium,ratio_over65,0.1619047619047619
+499,2001,Belgium,ratio_over65,0.17765814266487215
+500,2002,Belgium,ratio_over65,0.1589061345158906
+501,2003,Belgium,ratio_over65,0.1978565539983512
+502,2004,Belgium,ratio_over65,0.1729776247848537
+503,2005,Belgium,ratio_over65,0.16710875331564987
+504,2006,Belgium,ratio_over65,0.17992766726943946
+505,2007,Belgium,ratio_over65,0.16087751371115175
+506,2008,Belgium,ratio_over65,0.15918367346938775
+507,2009,Belgium,ratio_over65,0.1893305439330544
+508,2010,Belgium,ratio_over65,0.18235294117647055
+509,2011,Belgium,ratio_over65,0.2058823529411765
+510,2012,Belgium,ratio_over65,0.23458282950423215
+511,2013,Belgium,ratio_over65,0.2238219895287958
+512,1990,Canada,ratio_over65,0.14711077466565733
+513,1995,Canada,ratio_over65,0.16359794747962572
+514,2000,Canada,ratio_over65,0.17389807162534435
+515,2001,Canada,ratio_over65,0.1754894851341552
+516,2002,Canada,ratio_over65,0.17562478603218076
+517,2003,Canada,ratio_over65,0.1678069859560677
+518,2004,Canada,ratio_over65,0.17952468007312616
+519,2005,Canada,ratio_over65,0.16701173222912352
+520,2006,Canada,ratio_over65,0.15952629745733193
+521,2007,Canada,ratio_over65,0.16563748637849618
+522,2008,Canada,ratio_over65,0.17482517482517482
+523,2009,Canada,ratio_over65,0.18366425992779786
+524,2010,Canada,ratio_over65,0.1903485254691689
+525,2011,Canada,ratio_over65,0.2090954028670292
+526,2012,Canada,ratio_over65,0.1869879518072289
+527,2013,Canada,ratio_over65,0.20912352639671966
+528,1990,Czech Republic,ratio_over65,0.209140201394268
+529,1995,Czech Republic,ratio_over65,0.18387909319899245
+530,2000,Czech Republic,ratio_over65,0.16352624495289367
+531,2001,Czech Republic,ratio_over65,0.17991004497751126
+532,2002,Czech Republic,ratio_over65,0.14814814814814814
+533,2003,Czech Republic,ratio_over65,0.15964063579820315
+534,2004,Czech Republic,ratio_over65,0.17872648335745298
+535,2005,Czech Republic,ratio_over65,0.15707620528771385
+536,2006,Czech Republic,ratio_over65,0.1627469426152399
+537,2007,Czech Republic,ratio_over65,0.16530278232405893
+538,2008,Czech Republic,ratio_over65,0.17286245353159851
+539,2009,Czech Republic,ratio_over65,0.18091009988901224
+540,2010,Czech Republic,ratio_over65,0.20448877805486285
+541,2011,Czech Republic,ratio_over65,0.18240620957309184
+542,2012,Czech Republic,ratio_over65,0.21159029649595687
+543,2013,Czech Republic,ratio_over65,0.23700305810397554
+544,1990,Denmark,ratio_over65,0.3012618296529969
+545,1995,Denmark,ratio_over65,0.27319587628865977
+546,2000,Denmark,ratio_over65,0.26907630522088355
+547,2001,Denmark,ratio_over65,0.2366589327146172
+548,2002,Denmark,ratio_over65,0.2224622030237581
+549,2003,Denmark,ratio_over65,0.22916666666666666
+550,2004,Denmark,ratio_over65,0.21680216802168026
+551,2005,Denmark,ratio_over65,0.21148036253776434
+552,2006,Denmark,ratio_over65,0.2352941176470588
+553,2007,Denmark,ratio_over65,0.2339901477832512
+554,2008,Denmark,ratio_over65,0.2389162561576355
+555,2009,Denmark,ratio_over65,0.2013201320132013
+556,2010,Denmark,ratio_over65,0.2627450980392157
+557,2011,Denmark,ratio_over65,0.2863636363636364
+558,2012,Denmark,ratio_over65,0.2634730538922156
+559,2013,Denmark,ratio_over65,0.2774869109947644
+560,1990,Finland,ratio_over65,0.24345146379044685
+561,1995,Finland,ratio_over65,0.2698412698412698
+562,2000,Finland,ratio_over65,0.2676767676767677
+563,2001,Finland,ratio_over65,0.22170900692840648
+564,2002,Finland,ratio_over65,0.2385542168674699
+565,2003,Finland,ratio_over65,0.2532981530343008
+566,2004,Finland,ratio_over65,0.25866666666666666
+567,2005,Finland,ratio_over65,0.2401055408970976
+568,2006,Finland,ratio_over65,0.2113095238095238
+569,2007,Finland,ratio_over65,0.20789473684210527
+570,2008,Finland,ratio_over65,0.2703488372093023
+571,2009,Finland,ratio_over65,0.24731182795698925
+572,2010,Finland,ratio_over65,0.2352941176470588
+573,2011,Finland,ratio_over65,0.2808219178082192
+574,2012,Finland,ratio_over65,0.2274509803921569
+575,2013,Finland,ratio_over65,0.2829457364341085
+576,1990,France,ratio_over65,0.14605439144003568
+577,1995,France,ratio_over65,0.1671353053649758
+578,2000,France,ratio_over65,0.16610966703799976
+579,2001,France,ratio_over65,0.1667892156862745
+580,2002,France,ratio_over65,0.17465708687132592
+581,2003,France,ratio_over65,0.1814130075932651
+582,2004,France,ratio_over65,0.17164312533524048
+583,2005,France,ratio_over65,0.18691237307258368
+584,2006,France,ratio_over65,0.19133574007220214
+585,2007,France,ratio_over65,0.1913419913419913
+586,2008,France,ratio_over65,0.1897076023391813
+587,2009,France,ratio_over65,0.186285981745846
+588,2010,France,ratio_over65,0.19138276553106207
+589,2011,France,ratio_over65,0.1912692404743881
+590,2012,France,ratio_over65,0.2039419655078018
+591,2013,France,ratio_over65,0.21052631578947367
+592,1990,Germany,ratio_over65,0.0
+593,1995,Germany,ratio_over65,0.16088428178548764
+594,2000,Germany,ratio_over65,0.17473010795681726
+595,2001,Germany,ratio_over65,0.18388992403611867
+596,2002,Germany,ratio_over65,0.1806489330605086
+597,2003,Germany,ratio_over65,0.20096779071525786
+598,2004,Germany,ratio_over65,0.20558028072577886
+599,2005,Germany,ratio_over65,0.21675060623018091
+600,2006,Germany,ratio_over65,0.2266745236692202
+601,2007,Germany,ratio_over65,0.23297635886037585
+602,2008,Germany,ratio_over65,0.23810587446951084
+603,2009,Germany,ratio_over65,0.2658959537572254
+604,2010,Germany,ratio_over65,0.2494517543859649
+605,2011,Germany,ratio_over65,0.260414068346221
+606,2012,Germany,ratio_over65,0.2761111111111111
+607,2013,Germany,ratio_over65,0.2991913746630728
+608,1990,Greece,ratio_over65,0.19121951219512195
+609,1995,Greece,ratio_over65,0.1883036084612194
+610,2000,Greece,ratio_over65,0.21011291114383895
+611,2001,Greece,ratio_over65,0.2047872340425532
+612,2002,Greece,ratio_over65,0.20807833537331705
+613,2003,Greece,ratio_over65,0.2006230529595016
+614,2004,Greece,ratio_over65,0.18982035928143712
+615,2005,Greece,ratio_over65,0.1942098914354644
+616,2006,Greece,ratio_over65,0.19734459867229934
+617,2007,Greece,ratio_over65,0.2047146401985112
+618,2008,Greece,ratio_over65,0.21184803605924016
+619,2009,Greece,ratio_over65,0.1888736263736264
+620,2010,Greece,ratio_over65,0.21303656597774245
+621,2011,Greece,ratio_over65,0.2278702892199825
+622,2012,Greece,ratio_over65,0.25101214574898784
+623,2013,Greece,ratio_over65,0.2662116040955632
+624,1990,Hungary,ratio_over65,0.20476973684210525
+625,1995,Hungary,ratio_over65,0.17117684078036502
+626,2000,Hungary,ratio_over65,0.16916666666666666
+627,2001,Hungary,ratio_over65,0.2001614205004036
+628,2002,Hungary,ratio_over65,0.16165150454863542
+629,2003,Hungary,ratio_over65,0.17496229260935142
+630,2004,Hungary,ratio_over65,0.16512345679012347
+631,2005,Hungary,ratio_over65,0.16118935837245696
+632,2006,Hungary,ratio_over65,0.16577129700690713
+633,2007,Hungary,ratio_over65,0.16964285714285715
+634,2008,Hungary,ratio_over65,0.17971887550200802
+635,2009,Hungary,ratio_over65,0.1897810218978102
+636,2010,Hungary,ratio_over65,0.18513513513513516
+637,2011,Hungary,ratio_over65,0.22884012539184956
+638,2012,Hungary,ratio_over65,0.2
+639,2013,Hungary,ratio_over65,0.2284263959390863
+640,1990,Ireland,ratio_over65,0.1694560669456067
+641,1995,Ireland,ratio_over65,0.15331807780320367
+642,2000,Ireland,ratio_over65,0.10602409638554217
+643,2001,Ireland,ratio_over65,0.11435523114355232
+644,2002,Ireland,ratio_over65,0.1622340425531915
+645,2003,Ireland,ratio_over65,0.15522388059701492
+646,2004,Ireland,ratio_over65,0.16310160427807488
+647,2005,Ireland,ratio_over65,0.1414141414141414
+648,2006,Ireland,ratio_over65,0.1808219178082192
+649,2007,Ireland,ratio_over65,0.17159763313609466
+650,2008,Ireland,ratio_over65,0.16845878136200718
+651,2009,Ireland,ratio_over65,0.1092436974789916
+652,2010,Ireland,ratio_over65,0.14150943396226415
+653,2011,Ireland,ratio_over65,0.1989247311827957
+654,2012,Ireland,ratio_over65,0.2222222222222222
+655,2013,Ireland,ratio_over65,0.24468085106382975
+656,1990,Israel,ratio_over65,0.0
+657,1995,Israel,ratio_over65,0.0
+658,2000,Israel,ratio_over65,0.18181818181818185
+659,2001,Israel,ratio_over65,0.17509025270758122
+660,2002,Israel,ratio_over65,0.186219739292365
+661,2003,Israel,ratio_over65,0.16875
+662,2004,Israel,ratio_over65,0.1603960396039604
+663,2005,Israel,ratio_over65,0.16989247311827954
+664,2006,Israel,ratio_over65,0.1958997722095672
+665,2007,Israel,ratio_over65,0.17349397590361446
+666,2008,Israel,ratio_over65,0.18013856812933027
+667,2009,Israel,ratio_over65,0.18208092485549127
+668,2010,Israel,ratio_over65,0.2
+669,2011,Israel,ratio_over65,0.1858638743455497
+670,2012,Israel,ratio_over65,0.2
+671,2013,Israel,ratio_over65,0.1715210355987055
+672,1990,Isreal,ratio_over65,
+673,1995,Isreal,ratio_over65,
+674,2000,Isreal,ratio_over65,
+675,2001,Isreal,ratio_over65,
+676,2002,Isreal,ratio_over65,
+677,2003,Isreal,ratio_over65,
+678,2004,Isreal,ratio_over65,
+679,2005,Isreal,ratio_over65,
+680,2006,Isreal,ratio_over65,
+681,2007,Isreal,ratio_over65,
+682,2008,Isreal,ratio_over65,
+683,2009,Isreal,ratio_over65,
+684,2010,Isreal,ratio_over65,
+685,2011,Isreal,ratio_over65,
+686,2012,Isreal,ratio_over65,
+687,2013,Isreal,ratio_over65,
+688,1990,Italy,ratio_over65,0.2008110753740736
+689,1995,Italy,ratio_over65,0.21328025024882696
+690,2000,Italy,ratio_over65,0.20351225038946325
+691,2001,Italy,ratio_over65,0.19292559188275085
+692,2002,Italy,ratio_over65,0.20931232091690544
+693,2003,Italy,ratio_over65,0.21011732439433187
+694,2004,Italy,ratio_over65,0.21120548840248285
+695,2005,Italy,ratio_over65,0.20608456514266071
+696,2006,Italy,ratio_over65,0.21520550361615806
+697,2007,Italy,ratio_over65,0.21535763009160008
+698,2008,Italy,ratio_over65,0.2325925925925926
+699,2009,Italy,ratio_over65,0.2622138305404768
+700,2010,Italy,ratio_over65,0.2586290714632961
+701,2011,Italy,ratio_over65,0.2689119170984456
+702,2012,Italy,ratio_over65,0.2845723421262989
+703,2013,Italy,ratio_over65,0.2972655101440753
+704,1990,Japan,ratio_over65,0.2380952380952381
+705,1995,Japan,ratio_over65,0.3169230769230769
+706,2000,Japan,ratio_over65,0.3593659942363112
+707,2001,Japan,ratio_over65,0.37612948068712143
+708,2002,Japan,ratio_over65,0.3892172109901503
+709,2003,Japan,ratio_over65,0.4118962432915921
+710,2004,Japan,ratio_over65,0.4231217918805413
+711,2005,Japan,ratio_over65,0.4332874828060523
+712,2006,Japan,ratio_over65,0.4507906215921483
+713,2007,Japan,ratio_over65,0.4836445108289769
+714,2008,Japan,ratio_over65,0.4892252015134068
+715,2009,Japan,ratio_over65,0.5116438356164383
+716,2010,Japan,ratio_over65,0.5164722031571722
+717,2011,Japan,ratio_over65,0.5037037037037037
+718,2012,Japan,ratio_over65,0.5248051701197491
+719,2013,Japan,ratio_over65,0.537270087124879
+720,1990,Korea,ratio_over65,0.0
+721,1995,Korea,ratio_over65,0.13301322550753938
+722,2000,Korea,ratio_over65,0.18102774521297385
+723,2001,Korea,ratio_over65,0.19525750277880696
+724,2002,Korea,ratio_over65,0.2208529493215176
+725,2003,Korea,ratio_over65,0.23668885191347755
+726,2004,Korea,ratio_over65,0.26359896388846565
+727,2005,Korea,ratio_over65,0.266624843161857
+728,2006,Korea,ratio_over65,0.2735893788525368
+729,2007,Korea,ratio_over65,0.2896529354524813
+730,2008,Korea,ratio_over65,0.29557069846678025
+731,2009,Korea,ratio_over65,0.3127783487495718
+732,2010,Korea,ratio_over65,0.3182561307901907
+733,2011,Korea,ratio_over65,0.3296997513864984
+734,2012,Korea,ratio_over65,0.3456973293768546
+735,2013,Korea,ratio_over65,0.35997643362136683
+736,1990,Luxembourg,ratio_over65,0.15492957746478872
+737,1995,Luxembourg,ratio_over65,0.11428571428571427
+738,2000,Luxembourg,ratio_over65,0.13157894736842105
+739,2001,Luxembourg,ratio_over65,0.1
+740,2002,Luxembourg,ratio_over65,0.08064516129032258
+741,2003,Luxembourg,ratio_over65,0.11320754716981132
+742,2004,Luxembourg,ratio_over65,0.28
+743,2005,Luxembourg,ratio_over65,0.1702127659574468
+744,2006,Luxembourg,ratio_over65,0.06976744186046513
+745,2007,Luxembourg,ratio_over65,0.15555555555555556
+746,2008,Luxembourg,ratio_over65,0.11428571428571427
+747,2009,Luxembourg,ratio_over65,0.1875
+748,2010,Luxembourg,ratio_over65,0.09375
+749,2011,Luxembourg,ratio_over65,0.09090909090909093
+750,2012,Luxembourg,ratio_over65,0.2647058823529412
+751,2013,Luxembourg,ratio_over65,0.2
+752,1990,Luxenbourg,ratio_over65,
+753,1995,Luxenbourg,ratio_over65,
+754,2000,Luxenbourg,ratio_over65,
+755,2001,Luxenbourg,ratio_over65,
+756,2002,Luxenbourg,ratio_over65,
+757,2003,Luxenbourg,ratio_over65,
+758,2004,Luxenbourg,ratio_over65,
+759,2005,Luxenbourg,ratio_over65,
+760,2006,Luxenbourg,ratio_over65,
+761,2007,Luxenbourg,ratio_over65,
+762,2008,Luxenbourg,ratio_over65,
+763,2009,Luxenbourg,ratio_over65,
+764,2010,Luxenbourg,ratio_over65,
+765,2011,Luxenbourg,ratio_over65,
+766,2012,Luxenbourg,ratio_over65,
+767,2013,Luxenbourg,ratio_over65,
+768,1990,Netherlands,ratio_over65,0.22311046511627908
+769,1995,Netherlands,ratio_over65,0.2316341829085457
+770,2000,Netherlands,ratio_over65,0.21719038817005545
+771,2001,Netherlands,ratio_over65,0.22356495468277945
+772,2002,Netherlands,ratio_over65,0.21580547112462006
+773,2003,Netherlands,ratio_over65,0.21498054474708173
+774,2004,Netherlands,ratio_over65,0.2475124378109453
+775,2005,Netherlands,ratio_over65,0.25066666666666665
+776,2006,Netherlands,ratio_over65,0.2876712328767123
+777,2007,Netherlands,ratio_over65,0.2552891396332863
+778,2008,Netherlands,ratio_over65,0.2511078286558346
+779,2009,Netherlands,ratio_over65,0.29037267080745344
+780,2010,Netherlands,ratio_over65,0.2867783985102421
+781,2011,Netherlands,ratio_over65,0.3443223443223443
+782,2012,Netherlands,ratio_over65,0.3327402135231317
+783,2013,Netherlands,ratio_over65,0.3445378151260504
+784,1990,New Zealand,ratio_over65,0.08916323731138548
+785,1995,New Zealand,ratio_over65,0.0963855421686747
+786,2000,New Zealand,ratio_over65,0.1645021645021645
+787,2001,New Zealand,ratio_over65,0.15384615384615385
+788,2002,New Zealand,ratio_over65,0.150990099009901
+789,2003,New Zealand,ratio_over65,0.14316702819956614
+790,2004,New Zealand,ratio_over65,0.14220183486238533
+791,2005,New Zealand,ratio_over65,0.1382716049382716
+792,2006,New Zealand,ratio_over65,0.18320610687022898
+793,2007,New Zealand,ratio_over65,0.14726840855106887
+794,2008,New Zealand,ratio_over65,0.136986301369863
+795,2009,New Zealand,ratio_over65,0.14583333333333334
+796,2010,New Zealand,ratio_over65,0.184
+797,2011,New Zealand,ratio_over65,0.1936619718309859
+798,2012,New Zealand,ratio_over65,0.2305194805194805
+799,2013,New Zealand,ratio_over65,0.2134387351778656
+800,1990,Norway,ratio_over65,0.1867469879518072
+801,1995,Norway,ratio_over65,0.26229508196721313
+802,2000,Norway,ratio_over65,0.17888563049853373
+803,2001,Norway,ratio_over65,0.2436363636363636
+804,2002,Norway,ratio_over65,0.16346153846153846
+805,2003,Norway,ratio_over65,0.1879432624113475
+806,2004,Norway,ratio_over65,0.2131782945736434
+807,2005,Norway,ratio_over65,0.18834080717488788
+808,2006,Norway,ratio_over65,0.2644628099173554
+809,2007,Norway,ratio_over65,0.21888412017167386
+810,2008,Norway,ratio_over65,0.18823529411764706
+811,2009,Norway,ratio_over65,0.17452830188679244
+812,2010,Norway,ratio_over65,0.20192307692307693
+813,2011,Norway,ratio_over65,0.22023809523809526
+814,2012,Norway,ratio_over65,0.19310344827586207
+815,2013,Norway,ratio_over65,0.2352941176470588
+816,1990,Poland,ratio_over65,0.14387017591708715
+817,1995,Poland,ratio_over65,0.1491304347826087
+818,2000,Poland,ratio_over65,0.15951700031776295
+819,2001,Poland,ratio_over65,0.16443801951572098
+820,2002,Poland,ratio_over65,0.16749613866483612
+821,2003,Poland,ratio_over65,0.15691489361702127
+822,2004,Poland,ratio_over65,0.16876750700280113
+823,2005,Poland,ratio_over65,0.1710139603232917
+824,2006,Poland,ratio_over65,0.16994087354567994
+825,2007,Poland,ratio_over65,0.169442951818019
+826,2008,Poland,ratio_over65,0.1769358101894427
+827,2009,Poland,ratio_over65,0.1773840769903762
+828,2010,Poland,ratio_over65,0.17297850562947797
+829,2011,Poland,ratio_over65,0.1694915254237288
+830,2012,Poland,ratio_over65,0.18342201064127692
+831,2013,Poland,ratio_over65,0.1927316056002383
+832,1990,Portugal,ratio_over65,0.1740766073871409
+833,1995,Portugal,ratio_over65,0.1587362009897221
+834,2000,Portugal,ratio_over65,0.18363370677057966
+835,2001,Portugal,ratio_over65,0.19220357336220895
+836,2002,Portugal,ratio_over65,0.17990275526742305
+837,2003,Portugal,ratio_over65,0.19485078993563487
+838,2004,Portugal,ratio_over65,0.17832167832167833
+839,2005,Portugal,ratio_over65,0.17851959361393324
+840,2006,Portugal,ratio_over65,0.2222222222222222
+841,2007,Portugal,ratio_over65,0.2304832713754647
+842,2008,Portugal,ratio_over65,0.2229038854805726
+843,2009,Portugal,ratio_over65,0.2443487621097955
+844,2010,Portugal,ratio_over65,0.288153681963714
+845,2011,Portugal,ratio_over65,0.2962962962962963
+846,2012,Portugal,ratio_over65,0.2715877437325905
+847,2013,Portugal,ratio_over65,0.3029827315541601
+848,1990,Spain,ratio_over65,0.12555358724534987
+849,1995,Spain,ratio_over65,0.1453660233002956
+850,2000,Spain,ratio_over65,0.1459487534626039
+851,2001,Spain,ratio_over65,0.1566068515497553
+852,2002,Spain,ratio_over65,0.1552272302225547
+853,2003,Spain,ratio_over65,0.15021300240785332
+854,2004,Spain,ratio_over65,0.15566336215988189
+855,2005,Spain,ratio_over65,0.1605132823052679
+856,2006,Spain,ratio_over65,0.1625243664717349
+857,2007,Spain,ratio_over65,0.15746795710175254
+858,2008,Spain,ratio_over65,0.17774193548387096
+859,2009,Spain,ratio_over65,0.1845983787767133
+860,2010,Spain,ratio_over65,0.21347861178369654
+861,2011,Spain,ratio_over65,0.2349514563106796
+862,2012,Spain,ratio_over65,0.2664214398318445
+863,2013,Spain,ratio_over65,0.2869047619047619
+864,1990,Sweden,ratio_over65,0.24870466321243526
+865,1995,Sweden,ratio_over65,0.30594405594405594
+866,2000,Sweden,ratio_over65,0.26057529610829105
+867,2001,Sweden,ratio_over65,0.2364620938628159
+868,2002,Sweden,ratio_over65,0.2274436090225564
+869,2003,Sweden,ratio_over65,0.21755725190839692
+870,2004,Sweden,ratio_over65,0.28958333333333336
+871,2005,Sweden,ratio_over65,0.2363636363636364
+872,2006,Sweden,ratio_over65,0.21348314606741567
+873,2007,Sweden,ratio_over65,0.2229299363057325
+874,2008,Sweden,ratio_over65,0.25692695214105793
+875,2009,Sweden,ratio_over65,0.2569832402234637
+876,2010,Sweden,ratio_over65,0.2406015037593985
+877,2011,Sweden,ratio_over65,0.2852664576802508
+878,2012,Sweden,ratio_over65,0.24912280701754386
+879,2013,Sweden,ratio_over65,0.2923076923076923
+880,1990,Switzerland,ratio_over65,0.2140540540540541
+881,1995,Switzerland,ratio_over65,0.2384393063583815
+882,2000,Switzerland,ratio_over65,0.2719594594594595
+883,2001,Switzerland,ratio_over65,0.2334558823529412
+884,2002,Switzerland,ratio_over65,0.20662768031189085
+885,2003,Switzerland,ratio_over65,0.2289377289377289
+886,2004,Switzerland,ratio_over65,0.2392156862745098
+887,2005,Switzerland,ratio_over65,0.26405867970660146
+888,2006,Switzerland,ratio_over65,0.27297297297297296
+889,2007,Switzerland,ratio_over65,0.3046875
+890,2008,Switzerland,ratio_over65,0.2801120448179272
+891,2009,Switzerland,ratio_over65,0.2521489971346705
+892,2010,Switzerland,ratio_over65,0.308868501529052
+893,2011,Switzerland,ratio_over65,0.36875
+894,2012,Switzerland,ratio_over65,0.2743362831858407
+895,2013,Switzerland,ratio_over65,0.3717472118959108
+896,1990,United Kingdom,ratio_over65,0.2297297297297297
+897,1995,United Kingdom,ratio_over65,0.2363877822045153
+898,2000,United Kingdom,ratio_over65,0.18966480446927372
+899,2001,United Kingdom,ratio_over65,0.1812117843246248
+900,2002,United Kingdom,ratio_over65,0.18290980173136
+901,2003,United Kingdom,ratio_over65,0.17987971569163475
+902,2004,United Kingdom,ratio_over65,0.1748812351543943
+903,2005,United Kingdom,ratio_over65,0.184652278177458
+904,2006,United Kingdom,ratio_over65,0.17343844754396606
+905,2007,United Kingdom,ratio_over65,0.18796992481203006
+906,2008,United Kingdom,ratio_over65,0.18865784499054825
+907,2009,United Kingdom,ratio_over65,0.18485237483953787
+908,2010,United Kingdom,ratio_over65,0.1979002624671916
+909,2011,United Kingdom,ratio_over65,0.2239795918367347
+910,2012,United Kingdom,ratio_over65,0.2341842397336293
+911,2013,United Kingdom,ratio_over65,0.2310734463276836
+912,1990,United States,ratio_over65,0.14410637009798427
+913,1995,United States,ratio_over65,0.16737212138603916
+914,2000,United States,ratio_over65,0.1597568244129217
+915,2001,United States,ratio_over65,0.16018105981609632
+916,2002,United States,ratio_over65,0.15533077549122196
+917,2003,United States,ratio_over65,0.15618878835929484
+918,2004,United States,ratio_over65,0.15302549257633766
+919,2005,United States,ratio_over65,0.1501034245001149
+920,2006,United States,ratio_over65,0.14154256813711716
+921,2007,United States,ratio_over65,0.1446229913473424
+922,2008,United States,ratio_over65,0.14859845549528364
+923,2009,United States,ratio_over65,0.15653867721276155
+924,2010,United States,ratio_over65,0.1673990120912755
+925,2011,United States,ratio_over65,0.16696942639859602
+926,2012,United States,ratio_over65,0.16597596353087446
+927,2013,United States,ratio_over65,0.1737755753503785

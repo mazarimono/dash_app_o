@@ -1,0 +1,694 @@
+,Country,Type,Year,Value
+0,Australia,road_kill_rate,1990,13.65943461
+1,Austria,road_kill_rate,1990,20.37981807
+2,Belgium,road_kill_rate,1990,19.8637244
+3,Canada,road_kill_rate,1990,14.31143783
+4,Czech Republic,road_kill_rate,1990,12.45886211
+5,Denmark,road_kill_rate,1990,12.34565738
+6,Finland,road_kill_rate,1990,13.0468442
+7,France,road_kill_rate,1990,19.82254273
+8,Germany,road_kill_rate,1990,..
+9,Greece,road_kill_rate,1990,20.25513166
+10,Hungary,road_kill_rate,1990,23.44136377
+11,Iceland,road_kill_rate,1990,9.456823689
+12,Ireland,road_kill_rate,1990,13.62999969
+13,Israel,road_kill_rate,1990,8.66860224
+14,Italy,road_kill_rate,1990,12.6132476
+15,Japan,road_kill_rate,1990,11.80720162
+16,Korea,road_kill_rate,1990,33.06351909
+17,Lithuania,road_kill_rate,1990,29.26598421
+18,Luxembourg,road_kill_rate,1990,18.71869233
+19,Netherlands,road_kill_rate,1990,9.239504199
+20,New Zealand,road_kill_rate,1990,21.37829912
+21,Norway,road_kill_rate,1990,7.84292233
+22,Poland,road_kill_rate,1990,19.27788609
+23,Portugal,road_kill_rate,1990,29.25171531
+24,Serbia,road_kill_rate,1990,..
+25,Slovenia,road_kill_rate,1990,25.89691226
+26,Spain,road_kill_rate,1990,23.26258412
+27,Sweden,road_kill_rate,1990,9.053553056
+28,Switzerland,road_kill_rate,1990,13.86006578
+29,United Kingdom,road_kill_rate,1990,9.437869684
+30,United States,road_kill_rate,1990,17.8779019
+31,Argentina,road_kill_rate,1990,..
+32,Chile,road_kill_rate,1990,15.7
+33,Australia,road_kill_rate,1995,11.20251718
+34,Austria,road_kill_rate,1995,15.23260119
+35,Belgium,road_kill_rate,1995,14.30323691
+36,Canada,road_kill_rate,1995,11.30627547
+37,Czech Republic,road_kill_rate,1995,15.36799823
+38,Denmark,road_kill_rate,1995,11.15857874
+39,Finland,road_kill_rate,1995,8.649171935
+40,France,road_kill_rate,1995,15.39499522
+41,Germany,road_kill_rate,1995,11.59450819
+42,Greece,road_kill_rate,1995,22.75585805
+43,Hungary,road_kill_rate,1995,15.37241092
+44,Iceland,road_kill_rate,1995,8.989504753
+45,Ireland,road_kill_rate,1995,12.14692948
+46,Israel,road_kill_rate,1995,9.604419102
+47,Italy,road_kill_rate,1995,12.37236915
+48,Japan,road_kill_rate,1995,10.09397149
+49,Korea,road_kill_rate,1995,26.32559377
+50,Lithuania,road_kill_rate,1995,18.44638101
+51,Luxembourg,road_kill_rate,1995,17.25625539
+52,Netherlands,road_kill_rate,1995,8.648790511
+53,New Zealand,road_kill_rate,1995,15.81615153
+54,Norway,road_kill_rate,1995,7.014058012
+55,Poland,road_kill_rate,1995,17.88463771
+56,Portugal,road_kill_rate,1995,26.22392195
+57,Serbia,road_kill_rate,1995,..
+58,Slovenia,road_kill_rate,1995,20.85975359
+59,Spain,road_kill_rate,1995,14.61755683
+60,Sweden,road_kill_rate,1995,6.487922879
+61,Switzerland,road_kill_rate,1995,9.858927579
+62,United Kingdom,road_kill_rate,1995,6.488604984
+63,United States,road_kill_rate,1995,15.9119021
+64,Argentina,road_kill_rate,1995,..
+65,Chile,road_kill_rate,1995,..
+66,Australia,road_kill_rate,2000,9.548683096
+67,Austria,road_kill_rate,2000,12.19666726
+68,Belgium,road_kill_rate,2000,14.3567516
+69,Canada,road_kill_rate,2000,9.463682304
+70,Czech Republic,road_kill_rate,2000,14.45792792
+71,Denmark,road_kill_rate,2000,9.343304528
+72,Finland,road_kill_rate,2000,7.657645985
+73,France,road_kill_rate,2000,13.72621024
+74,Germany,road_kill_rate,2000,9.131794876
+75,Greece,road_kill_rate,2000,18.68163423
+76,Hungary,road_kill_rate,2000,11.7397945
+77,Iceland,road_kill_rate,2000,11.46752004
+78,Ireland,road_kill_rate,2000,10.98591288
+79,Israel,road_kill_rate,2000,7.944732297
+80,Italy,road_kill_rate,2000,12.40436203
+81,Japan,road_kill_rate,2000,8.201629296
+82,Korea,road_kill_rate,2000,21.77501702
+83,Lithuania,road_kill_rate,2000,18.25132386
+84,Luxembourg,road_kill_rate,2000,17.52767528
+85,Netherlands,road_kill_rate,2000,6.820495526
+86,New Zealand,road_kill_rate,2000,11.97586164
+87,Norway,road_kill_rate,2000,7.614161626
+88,Poland,road_kill_rate,2000,16.44918109
+89,Portugal,road_kill_rate,2000,20.03117956
+90,Serbia,road_kill_rate,2000,13.92144902
+91,Slovenia,road_kill_rate,2000,15.79671539
+92,Spain,road_kill_rate,2000,14.42207768
+93,Sweden,road_kill_rate,2000,6.669355474
+94,Switzerland,road_kill_rate,2000,8.263027808
+95,United Kingdom,road_kill_rate,2000,6.078168748
+96,United States,road_kill_rate,2000,14.86555202
+97,Argentina,road_kill_rate,2000,..
+98,Chile,road_kill_rate,2000,..
+99,Australia,road_kill_rate,2001,9.011812946
+100,Austria,road_kill_rate,2001,11.94372833
+101,Belgium,road_kill_rate,2001,14.47861306
+102,Canada,road_kill_rate,2001,8.890867216
+103,Czech Republic,road_kill_rate,2001,13.03749492
+104,Denmark,road_kill_rate,2001,8.057261518
+105,Finland,road_kill_rate,2001,8.357274448
+106,France,road_kill_rate,2001,13.76830096
+107,Germany,road_kill_rate,2001,8.481690999
+108,Greece,road_kill_rate,2001,17.19252473
+109,Hungary,road_kill_rate,2001,12.14670395
+110,Iceland,road_kill_rate,2001,8.469761188
+111,Ireland,road_kill_rate,2001,10.72327862
+112,Israel,road_kill_rate,2001,8.511292057
+113,Italy,road_kill_rate,2001,12.45771382
+114,Japan,road_kill_rate,2001,7.911792664
+115,Korea,road_kill_rate,2001,17.09778913
+116,Lithuania,road_kill_rate,2001,20.24664195
+117,Luxembourg,road_kill_rate,2001,15.9453303
+118,Netherlands,road_kill_rate,2001,6.21126754
+119,New Zealand,road_kill_rate,2001,11.81818182
+120,Norway,road_kill_rate,2001,6.106448498
+121,Poland,road_kill_rate,2001,14.46647804
+122,Portugal,road_kill_rate,2001,17.87862168
+123,Serbia,road_kill_rate,2001,16.98926505
+124,Slovenia,road_kill_rate,2001,13.9691894
+125,Spain,road_kill_rate,2001,13.63005597
+126,Sweden,road_kill_rate,2001,6.236777806
+127,Switzerland,road_kill_rate,2001,7.551302704
+128,United Kingdom,road_kill_rate,2001,6.08664596
+129,United States,road_kill_rate,2001,14.80722698
+130,Argentina,road_kill_rate,2001,..
+131,Chile,road_kill_rate,2001,..
+132,Australia,road_kill_rate,2002,8.797032707
+133,Austria,road_kill_rate,2002,11.855688
+134,Belgium,road_kill_rate,2002,13.12353142
+135,Canada,road_kill_rate,2002,9.314883168
+136,Czech Republic,road_kill_rate,2002,14.02778619
+137,Denmark,road_kill_rate,2002,8.624617527
+138,Finland,road_kill_rate,2002,7.98860267
+139,France,road_kill_rate,2002,12.82547491
+140,Germany,road_kill_rate,2002,8.299338131
+141,Greece,road_kill_rate,2002,14.89714859
+142,Hungary,road_kill_rate,2002,14.04442895
+143,Iceland,road_kill_rate,2002,10.11951496
+144,Ireland,road_kill_rate,2002,9.641762371
+145,Israel,road_kill_rate,2002,8.098326044
+146,Italy,road_kill_rate,2002,12.24829856
+147,Japan,road_kill_rate,2002,7.568564366
+148,Korea,road_kill_rate,2002,15.16525975
+149,Lithuania,road_kill_rate,2002,20.17578113
+150,Luxembourg,road_kill_rate,2002,13.96239162
+151,Netherlands,road_kill_rate,2002,6.128423061
+152,New Zealand,road_kill_rate,2002,10.25641026
+153,Norway,road_kill_rate,2002,6.896451113
+154,Poland,road_kill_rate,2002,15.2370953
+155,Portugal,road_kill_rate,2002,17.80720483
+156,Serbia,road_kill_rate,2002,11.38343984
+157,Slovenia,road_kill_rate,2002,13.49029551
+158,Spain,road_kill_rate,2002,13.03025168
+159,Sweden,road_kill_rate,2002,5.971403711
+160,Switzerland,road_kill_rate,2002,7.070349147
+161,United Kingdom,road_kill_rate,2002,6.03210505
+162,United States,road_kill_rate,2002,14.95175007
+163,Argentina,road_kill_rate,2002,..
+164,Chile,road_kill_rate,2002,12.85400284
+165,Australia,road_kill_rate,2003,8.219773936
+166,Austria,road_kill_rate,2003,11.49343979
+167,Belgium,road_kill_rate,2003,11.71319305
+168,Canada,road_kill_rate,2003,8.776412593
+169,Czech Republic,road_kill_rate,2003,14.19650574
+170,Denmark,road_kill_rate,2003,8.024508931
+171,Finland,road_kill_rate,2003,7.279648963
+172,France,road_kill_rate,2003,10.07955813
+173,Germany,road_kill_rate,2003,8.012195305
+174,Greece,road_kill_rate,2003,14.59236435
+175,Hungary,road_kill_rate,2003,13.07387766
+176,Iceland,road_kill_rate,2003,7.973071817
+177,Ireland,road_kill_rate,2003,8.450652353
+178,Israel,road_kill_rate,2003,7.113218731
+179,Italy,road_kill_rate,2003,11.48773302
+180,Japan,road_kill_rate,2003,7.008360824
+181,Korea,road_kill_rate,2003,15.06926597
+182,Lithuania,road_kill_rate,2003,20.66153635
+183,Luxembourg,road_kill_rate,2003,11.82244033
+184,Netherlands,road_kill_rate,2003,6.348589958
+185,New Zealand,road_kill_rate,2003,11.49912696
+186,Norway,road_kill_rate,2003,6.194736144
+187,Poland,road_kill_rate,2003,14.7572391
+188,Portugal,road_kill_rate,2003,16.36253479
+189,Serbia,road_kill_rate,2003,11.58736486
+190,Slovenia,road_kill_rate,2003,12.13012517
+191,Spain,road_kill_rate,2003,12.90767168
+192,Sweden,road_kill_rate,2003,5.860780951
+193,Switzerland,road_kill_rate,2003,7.465285397
+194,United Kingdom,road_kill_rate,2003,6.133810776
+195,United States,road_kill_rate,2003,14.78208457
+196,Argentina,road_kill_rate,2003,..
+197,Chile,road_kill_rate,2003,13.97918251
+198,Australia,road_kill_rate,2004,7.941715136
+199,Austria,road_kill_rate,2004,10.7828324
+200,Belgium,road_kill_rate,2004,11.17692329
+201,Canada,road_kill_rate,2004,8.563465644
+202,Czech Republic,road_kill_rate,2004,13.55520317
+203,Denmark,road_kill_rate,2004,6.836321059
+204,Finland,road_kill_rate,2004,7.184276894
+205,France,road_kill_rate,2004,9.243799824
+206,Germany,road_kill_rate,2004,7.078494751
+207,Greece,road_kill_rate,2004,15.12990199
+208,Hungary,road_kill_rate,2004,12.81044826
+209,Iceland,road_kill_rate,2004,7.915476477
+210,Ireland,road_kill_rate,2004,9.283043726
+211,Israel,road_kill_rate,2004,7.350800582
+212,Italy,road_kill_rate,2004,10.64771575
+213,Japan,road_kill_rate,2004,6.713291095
+214,Korea,road_kill_rate,2004,13.6495986
+215,Lithuania,road_kill_rate,2004,22.09519528
+216,Luxembourg,road_kill_rate,2004,10.98997714
+217,Netherlands,road_kill_rate,2004,4.945247986
+218,New Zealand,road_kill_rate,2004,10.73627185
+219,Norway,road_kill_rate,2004,5.636317283
+220,Poland,road_kill_rate,2004,14.95655686
+221,Portugal,road_kill_rate,2004,13.65409312
+222,Serbia,road_kill_rate,2004,12.85095317
+223,Slovenia,road_kill_rate,2004,13.72447761
+224,Spain,road_kill_rate,2004,11.14285319
+225,Sweden,road_kill_rate,2004,5.347790193
+226,Switzerland,road_kill_rate,2004,6.925444736
+227,United Kingdom,road_kill_rate,2004,5.617980902
+228,United States,road_kill_rate,2004,14.62951671
+229,Argentina,road_kill_rate,2004,..
+230,Chile,road_kill_rate,2004,14.27351109
+231,Australia,road_kill_rate,2005,8.063699159
+232,Austria,road_kill_rate,2005,9.364301697
+233,Belgium,road_kill_rate,2005,10.82726426
+234,Canada,road_kill_rate,2005,8.988174688
+235,Czech Republic,road_kill_rate,2005,12.60925859
+236,Denmark,road_kill_rate,2005,6.11671091
+237,Finland,road_kill_rate,2005,7.237505325
+238,France,road_kill_rate,2005,8.723286207
+239,Germany,road_kill_rate,2005,6.498114947
+240,Greece,road_kill_rate,2005,14.97239453
+241,Hungary,road_kill_rate,2005,12.65653675
+242,Iceland,road_kill_rate,2005,6.47189664
+243,Ireland,road_kill_rate,2005,9.631118436
+244,Israel,road_kill_rate,2005,6.70995671
+245,Italy,road_kill_rate,2005,10.05274269
+246,Japan,road_kill_rate,2005,6.259000689
+247,Korea,road_kill_rate,2005,13.20246822
+248,Lithuania,road_kill_rate,2005,23.03872771
+249,Luxembourg,road_kill_rate,2005,10.19014375
+250,Netherlands,road_kill_rate,2005,4.599667622
+251,New Zealand,road_kill_rate,2005,9.797138752
+252,Norway,road_kill_rate,2005,4.841129542
+253,Poland,road_kill_rate,2005,14.26107699
+254,Portugal,road_kill_rate,2005,13.1304723
+255,Serbia,road_kill_rate,2005,11.30625465
+256,Slovenia,road_kill_rate,2005,12.91556325
+257,Spain,road_kill_rate,2005,10.25952818
+258,Sweden,road_kill_rate,2005,4.882708465
+259,Switzerland,road_kill_rate,2005,5.515770383
+260,United Kingdom,road_kill_rate,2005,5.521965073
+261,United States,road_kill_rate,2005,14.72336923
+262,Argentina,road_kill_rate,2005,..
+263,Chile,road_kill_rate,2005,13.07738123
+264,Australia,road_kill_rate,2006,7.833370805
+265,Austria,road_kill_rate,2006,8.843877456
+266,Belgium,road_kill_rate,2006,10.52192756
+267,Canada,road_kill_rate,2006,8.814723628
+268,Czech Republic,road_kill_rate,2006,10.39753503
+269,Denmark,road_kill_rate,2006,5.63799745
+270,Finland,road_kill_rate,2006,6.393204936
+271,France,road_kill_rate,2006,7.669414458
+272,Germany,road_kill_rate,2006,6.175550485
+273,Greece,road_kill_rate,2006,14.91165542
+274,Hungary,road_kill_rate,2006,12.93097331
+275,Iceland,road_kill_rate,2006,10.33708914
+276,Ireland,road_kill_rate,2006,8.673632822
+277,Israel,road_kill_rate,2006,6.223419337
+278,Italy,road_kill_rate,2006,9.76332858
+279,Japan,road_kill_rate,2006,5.741566878
+280,Korea,road_kill_rate,2006,13.0461678
+281,Lithuania,road_kill_rate,2006,23.10146254
+282,Luxembourg,road_kill_rate,2006,9.166762598
+283,Netherlands,road_kill_rate,2006,4.46914788
+284,New Zealand,road_kill_rate,2006,9.492753623
+285,Norway,road_kill_rate,2006,5.21527109
+286,Poland,road_kill_rate,2006,13.74057825
+287,Portugal,road_kill_rate,2006,10.18836779
+288,Serbia,road_kill_rate,2006,12.26855558
+289,Slovenia,road_kill_rate,2006,13.12795816
+290,Spain,road_kill_rate,2006,9.325159519
+291,Sweden,road_kill_rate,2006,4.918348779
+292,Switzerland,road_kill_rate,2006,4.96036534
+293,United Kingdom,road_kill_rate,2006,5.421928366
+294,United States,road_kill_rate,2006,14.313296
+295,Argentina,road_kill_rate,2006,..
+296,Chile,road_kill_rate,2006,13.15195634
+297,Australia,road_kill_rate,2007,7.696509952
+298,Austria,road_kill_rate,2007,8.342404138
+299,Belgium,road_kill_rate,2007,10.33583529
+300,Canada,road_kill_rate,2007,8.370852673
+301,Czech Republic,road_kill_rate,2007,11.89894041
+302,Denmark,road_kill_rate,2007,7.453529264
+303,Finland,road_kill_rate,2007,7.201122617
+304,France,road_kill_rate,2007,7.476304242
+305,Germany,road_kill_rate,2007,6.012276804
+306,Greece,road_kill_rate,2007,14.46546863
+307,Hungary,road_kill_rate,2007,12.23902903
+308,Iceland,road_kill_rate,2007,4.875321771
+309,Ireland,road_kill_rate,2007,7.787806691
+310,Israel,road_kill_rate,2007,5.728879072
+311,Italy,road_kill_rate,2007,8.812555922
+312,Japan,road_kill_rate,2007,5.239843157
+313,Korea,road_kill_rate,2007,12.66544624
+314,Lithuania,road_kill_rate,2007,22.76934987
+315,Luxembourg,road_kill_rate,2007,9.450068986
+316,Netherlands,road_kill_rate,2007,4.334272813
+317,New Zealand,road_kill_rate,2007,9.957426679
+318,Norway,road_kill_rate,2007,4.97742641
+319,Poland,road_kill_rate,2007,14.64375044
+320,Portugal,road_kill_rate,2007,10.21591275
+321,Serbia,road_kill_rate,2007,13.08523476
+322,Slovenia,road_kill_rate,2007,14.57438083
+323,Spain,road_kill_rate,2007,8.536403956
+324,Sweden,road_kill_rate,2007,5.168294936
+325,Switzerland,road_kill_rate,2007,5.114041119
+326,United Kingdom,road_kill_rate,2007,4.988659728
+327,United States,road_kill_rate,2007,13.69678806
+328,Argentina,road_kill_rate,2007,..
+329,Chile,road_kill_rate,2007,12.95981204
+330,Australia,road_kill_rate,2008,6.762607852
+331,Austria,road_kill_rate,2008,8.172856271
+332,Belgium,road_kill_rate,2008,9.187328312
+333,Canada,road_kill_rate,2008,7.312207781
+334,Czech Republic,road_kill_rate,2008,10.40274679
+335,Denmark,road_kill_rate,2008,7.414453912
+336,Finland,road_kill_rate,2008,6.489973368
+337,France,road_kill_rate,2008,6.88019509
+338,Germany,road_kill_rate,2008,5.445290418
+339,Greece,road_kill_rate,2008,13.88811385
+340,Hungary,road_kill_rate,2008,9.914984977
+341,Iceland,road_kill_rate,2008,3.803980866
+342,Ireland,road_kill_rate,2008,6.258741769
+343,Israel,road_kill_rate,2008,5.924203037
+344,Italy,road_kill_rate,2008,8.055871089
+345,Japan,road_kill_rate,2008,4.760674122
+346,Korea,road_kill_rate,2008,11.96623166
+347,Lithuania,road_kill_rate,2008,15.53256625
+348,Luxembourg,road_kill_rate,2008,7.234409331
+349,Netherlands,road_kill_rate,2008,4.126690244
+350,New Zealand,road_kill_rate,2008,8.550011712
+351,Norway,road_kill_rate,2008,5.382959577
+352,Poland,road_kill_rate,2008,14.26448528
+353,Portugal,road_kill_rate,2008,9.267209174
+354,Serbia,road_kill_rate,2008,12.2870021
+355,Slovenia,road_kill_rate,2008,10.64534149
+356,Spain,road_kill_rate,2008,6.787983404
+357,Sweden,road_kill_rate,2008,4.323240291
+358,Switzerland,road_kill_rate,2008,4.701393061
+359,United Kingdom,road_kill_rate,2008,4.278289587
+360,United States,road_kill_rate,2008,12.30639348
+361,Argentina,road_kill_rate,2008,..
+362,Chile,road_kill_rate,2008,13.87319706
+363,Australia,road_kill_rate,2009,6.8690016389999995
+364,Austria,road_kill_rate,2009,7.59447837
+365,Belgium,road_kill_rate,2009,8.890476031
+366,Canada,road_kill_rate,2009,6.589634748
+367,Czech Republic,road_kill_rate,2009,8.642036766
+368,Denmark,road_kill_rate,2009,5.497644813
+369,Finland,road_kill_rate,2009,5.238144052
+370,France,road_kill_rate,2009,6.840553111
+371,Germany,road_kill_rate,2009,5.063269158
+372,Greece,road_kill_rate,2009,13.010857099999999
+373,Hungary,road_kill_rate,2009,8.194617173
+374,Iceland,road_kill_rate,2009,5.323012951
+375,Ireland,road_kill_rate,2009,5.263947138
+376,Israel,road_kill_rate,2009,4.622516733
+377,Italy,road_kill_rate,2009,7.181284606
+378,Japan,road_kill_rate,2009,4.580032939
+379,Korea,road_kill_rate,2009,11.83990333
+380,Lithuania,road_kill_rate,2009,11.62112859
+381,Luxembourg,road_kill_rate,2009,9.726443769
+382,Netherlands,road_kill_rate,2009,3.906395248
+383,New Zealand,road_kill_rate,2009,8.897126969
+384,Norway,road_kill_rate,2009,4.417355038
+385,Poland,road_kill_rate,2009,11.9887111
+386,Portugal,road_kill_rate,2009,8.794838291
+387,Serbia,road_kill_rate,2009,11.02940625
+388,Slovenia,road_kill_rate,2009,8.413855406
+389,Spain,road_kill_rate,2009,5.869469444
+390,Sweden,road_kill_rate,2009,3.867616458
+391,Switzerland,road_kill_rate,2009,4.531375294
+392,United Kingdom,road_kill_rate,2009,3.753584577
+393,United States,road_kill_rate,2009,11.04502758
+394,Argentina,road_kill_rate,2009,13.00379911
+395,Chile,road_kill_rate,2009,11.57194575
+396,Australia,road_kill_rate,2010,6.12752051
+397,Austria,road_kill_rate,2010,6.609477919
+398,Belgium,road_kill_rate,2010,7.841397134
+399,Canada,road_kill_rate,2010,6.58133206
+400,Czech Republic,road_kill_rate,2010,7.665773792
+401,Denmark,road_kill_rate,2010,4.607264156
+402,Finland,road_kill_rate,2010,5.082756431
+403,France,road_kill_rate,2010,6.3602088
+404,Germany,road_kill_rate,2010,4.459534656000001
+405,Greece,road_kill_rate,2010,11.24869853
+406,Hungary,road_kill_rate,2010,7.389415401
+407,Iceland,road_kill_rate,2010,2.51865378
+408,Ireland,road_kill_rate,2010,4.659926479
+409,Israel,road_kill_rate,2010,4.919400542
+410,Italy,road_kill_rate,2010,6.950481602999999
+411,Japan,road_kill_rate,2010,4.5510627999999995
+412,Korea,road_kill_rate,2010,11.109067999999999
+413,Lithuania,road_kill_rate,2010,9.516304389
+414,Luxembourg,road_kill_rate,2010,6.37366402
+415,Netherlands,road_kill_rate,2010,3.239821155
+416,New Zealand,road_kill_rate,2010,8.585518634
+417,Norway,road_kill_rate,2010,4.281421984
+418,Poland,road_kill_rate,2010,10.23912362
+419,Portugal,road_kill_rate,2010,8.861794685
+420,Serbia,road_kill_rate,2010,9.032833941
+421,Slovenia,road_kill_rate,2010,6.741652076
+422,Spain,road_kill_rate,2010,5.330566200000001
+423,Sweden,road_kill_rate,2010,2.847757798
+424,Switzerland,road_kill_rate,2010,4.199950525
+425,United Kingdom,road_kill_rate,2010,3.03539916
+426,United States,road_kill_rate,2010,10.66802532
+427,Argentina,road_kill_rate,2010,12.57189506
+428,Chile,road_kill_rate,2010,12.1093173
+429,Australia,road_kill_rate,2011,5.716197977
+430,Austria,road_kill_rate,2011,6.244653836
+431,Belgium,road_kill_rate,2011,8.035897554
+432,Canada,road_kill_rate,2011,5.890612233
+433,Czech Republic,road_kill_rate,2011,7.371219878
+434,Denmark,road_kill_rate,2011,3.95638766
+435,Finland,road_kill_rate,2011,5.432279198
+436,France,road_kill_rate,2011,6.283460258
+437,Germany,road_kill_rate,2011,4.903879437
+438,Greece,road_kill_rate,2011,10.25766241
+439,Hungary,road_kill_rate,2011,6.389122389
+440,Iceland,road_kill_rate,2011,3.768228807
+441,Ireland,road_kill_rate,2011,4.069237418
+442,Israel,road_kill_rate,2011,4.918623815
+443,Italy,road_kill_rate,2011,6.502181684
+444,Japan,road_kill_rate,2011,4.331019805
+445,Korea,road_kill_rate,2011,10.47126961
+446,Lithuania,road_kill_rate,2011,9.696690152999999
+447,Luxembourg,road_kill_rate,2011,6.44732729
+448,Netherlands,road_kill_rate,2011,3.278137542
+449,New Zealand,road_kill_rate,2011,6.447101982
+450,Norway,road_kill_rate,2011,3.41442248
+451,Poland,road_kill_rate,2011,10.87208557
+452,Portugal,road_kill_rate,2011,8.427348078
+453,Serbia,road_kill_rate,2011,10.08060485
+454,Slovenia,road_kill_rate,2011,6.8774147160000005
+455,Spain,road_kill_rate,2011,4.414237725
+456,Sweden,road_kill_rate,2011,3.388005187
+457,Switzerland,road_kill_rate,2011,4.066004467
+458,United Kingdom,road_kill_rate,2011,3.097093323
+459,United States,road_kill_rate,2011,10.42370668
+460,Argentina,road_kill_rate,2011,12.32258895
+461,Chile,road_kill_rate,2011,11.85034018
+462,Australia,road_kill_rate,2012,5.714043152
+463,Austria,road_kill_rate,2012,6.315323007000001
+464,Belgium,road_kill_rate,2012,7.453908796
+465,Canada,road_kill_rate,2012,5.970857382
+466,Czech Republic,road_kill_rate,2012,7.063003995
+467,Denmark,road_kill_rate,2012,2.99255481
+468,Finland,road_kill_rate,2012,4.7211145089999995
+469,France,road_kill_rate,2012,5.764014251
+470,Germany,road_kill_rate,2012,4.481630915
+471,Greece,road_kill_rate,2012,8.882468578
+472,Hungary,road_kill_rate,2012,6.091467666000001
+473,Iceland,road_kill_rate,2012,2.816240319
+474,Ireland,road_kill_rate,2012,3.5350285319999997
+475,Israel,road_kill_rate,2012,3.666106216
+476,Italy,road_kill_rate,2012,6.318798061
+477,Japan,road_kill_rate,2012,4.125789123000001
+478,Korea,road_kill_rate,2012,10.74106731
+479,Lithuania,road_kill_rate,2012,10.02117097
+480,Luxembourg,road_kill_rate,2012,6.478004317000001
+481,Netherlands,road_kill_rate,2012,3.3591650339999997
+482,New Zealand,road_kill_rate,2012,6.947702747
+483,Norway,road_kill_rate,2012,2.908218626
+484,Poland,road_kill_rate,2012,9.26607136
+485,Portugal,road_kill_rate,2012,6.810594705
+486,Serbia,road_kill_rate,2012,9.533510636
+487,Slovenia,road_kill_rate,2012,6.324507564
+488,Spain,road_kill_rate,2012,4.064656966
+489,Sweden,road_kill_rate,2012,3.0054239989999996
+490,Switzerland,road_kill_rate,2012,4.261651846
+491,United Kingdom,road_kill_rate,2012,2.828662038
+492,United States,road_kill_rate,2012,10.76292841
+493,Argentina,road_kill_rate,2012,12.29107117
+494,Chile,road_kill_rate,2012,11.37184437
+495,Australia,road_kill_rate,2013,5.123631055
+496,Austria,road_kill_rate,2013,5.383430392999999
+497,Belgium,road_kill_rate,2013,6.844871032
+498,Canada,road_kill_rate,2013,5.549822256000001
+499,Czech Republic,road_kill_rate,2013,6.21902079
+500,Denmark,road_kill_rate,2013,3.409114437
+501,Finland,road_kill_rate,2013,4.75429333
+502,France,road_kill_rate,2013,5.130470228
+503,Germany,road_kill_rate,2013,4.146602916
+504,Greece,road_kill_rate,2013,7.98828385
+505,Hungary,road_kill_rate,2013,5.964396488999999
+506,Iceland,road_kill_rate,2013,4.660454798
+507,Ireland,road_kill_rate,2013,4.0948908180000005
+508,Israel,road_kill_rate,2013,3.8340798830000002
+509,Italy,road_kill_rate,2013,5.698227469
+510,Japan,road_kill_rate,2013,4.057440474
+511,Korea,road_kill_rate,2013,10.09738604
+512,Lithuania,road_kill_rate,2013,8.681300378
+513,Luxembourg,road_kill_rate,2013,8.379279717000001
+514,Netherlands,road_kill_rate,2013,2.836782219
+515,New Zealand,road_kill_rate,2013,5.65862605
+516,Norway,road_kill_rate,2013,3.702035625
+517,Poland,road_kill_rate,2013,8.711945479
+518,Portugal,road_kill_rate,2013,6.074019701
+519,Serbia,road_kill_rate,2013,9.051027605
+520,Slovenia,road_kill_rate,2013,6.071436031
+521,Spain,road_kill_rate,2013,3.595283245
+522,Sweden,road_kill_rate,2013,2.720834149
+523,Switzerland,road_kill_rate,2013,3.346162362
+524,United Kingdom,road_kill_rate,2013,2.76106691
+525,United States,road_kill_rate,2013,10.39511765
+526,Argentina,road_kill_rate,2013,12.34274346
+527,Chile,road_kill_rate,2013,11.9782546
+528,Australia,road_kill_rate,2014,4.902945115
+529,Austria,road_kill_rate,2014,5.054193888
+530,Belgium,road_kill_rate,2014,6.663184519
+531,Canada,road_kill_rate,2014,5.1940862039999995
+532,Czech Republic,road_kill_rate,2014,6.544640201
+533,Denmark,road_kill_rate,2014,3.234270472
+534,Finland,road_kill_rate,2014,4.200855947
+535,France,road_kill_rate,2014,5.28520556
+536,Germany,road_kill_rate,2014,4.18113913
+537,Greece,road_kill_rate,2014,7.27568447
+538,Hungary,road_kill_rate,2014,6.337722662000001
+539,Iceland,road_kill_rate,2014,1.228233401
+540,Ireland,road_kill_rate,2014,4.190640714
+541,Israel,road_kill_rate,2014,3.882857004
+542,Italy,road_kill_rate,2014,5.562440925
+543,Japan,road_kill_rate,2014,3.806960805
+544,Korea,road_kill_rate,2014,9.383868995
+545,Lithuania,road_kill_rate,2014,9.070920328
+546,Luxembourg,road_kill_rate,2014,6.3673409979999995
+547,Netherlands,road_kill_rate,2014,2.8284023169999997
+548,New Zealand,road_kill_rate,2014,6.4968325170000005
+549,Norway,road_kill_rate,2014,2.8778555860000004
+550,Poland,road_kill_rate,2014,8.422358167999999
+551,Portugal,road_kill_rate,2014,6.118553593
+552,Serbia,road_kill_rate,2014,7.499903102999999
+553,Slovenia,road_kill_rate,2014,5.239958566
+554,Spain,road_kill_rate,2014,3.629155439
+555,Sweden,road_kill_rate,2014,2.799417389
+556,Switzerland,road_kill_rate,2014,2.9853933180000003
+557,United Kingdom,road_kill_rate,2014,2.870113346
+558,United States,road_kill_rate,2014,10.27864288
+559,Argentina,road_kill_rate,2014,12.37183468
+560,Chile,road_kill_rate,2014,11.87492894
+561,Australia,road_kill_rate,2015,5.059624845
+562,Austria,road_kill_rate,2015,5.57954722
+563,Belgium,road_kill_rate,2015,6.781004005
+564,Canada,road_kill_rate,2015,5.289344151
+565,Czech Republic,road_kill_rate,2015,6.993554448
+566,Denmark,road_kill_rate,2015,3.145034688
+567,Finland,road_kill_rate,2015,4.934433261
+568,France,road_kill_rate,2015,5.378905255
+569,Germany,road_kill_rate,2015,4.259981433
+570,Greece,road_kill_rate,2015,7.303358679
+571,Hungary,road_kill_rate,2015,6.534375329
+572,Iceland,road_kill_rate,2015,4.861744151
+573,Ireland,road_kill_rate,2015,3.499714514
+574,Israel,road_kill_rate,2015,4.206347331
+575,Italy,road_kill_rate,2015,5.638564836
+576,Japan,road_kill_rate,2015,3.843581573
+577,Korea,road_kill_rate,2015,9.058129571
+578,Lithuania,road_kill_rate,2015,8.284090917
+579,Luxembourg,road_kill_rate,2015,6.394793217
+580,Netherlands,road_kill_rate,2015,3.141876864
+581,New Zealand,road_kill_rate,2015,6.939761133
+582,Norway,road_kill_rate,2015,2.264592249
+583,Poland,road_kill_rate,2015,7.730436877
+584,Portugal,road_kill_rate,2015,5.715760714
+585,Serbia,road_kill_rate,2015,8.419551745
+586,Slovenia,road_kill_rate,2015,5.817126979
+587,Spain,road_kill_rate,2015,3.636201975
+588,Sweden,road_kill_rate,2015,2.657131088
+589,Switzerland,road_kill_rate,2015,3.071258291
+590,United Kingdom,road_kill_rate,2015,2.770694299
+591,United States,road_kill_rate,2015,11.05283385
+592,Argentina,road_kill_rate,2015,..
+593,Chile,road_kill_rate,2015,11.8624443
+594,Australia,road_kill_rate,2016,5.349117336
+595,Austria,road_kill_rate,2016,4.965248433
+596,Belgium,road_kill_rate,2016,5.923376091000001
+597,Canada,road_kill_rate,2016,5.226367346
+598,Czech Republic,road_kill_rate,2016,5.789360331
+599,Denmark,road_kill_rate,2016,3.697051347
+600,Finland,road_kill_rate,2016,4.701759041
+601,France,road_kill_rate,2016,5.381969787999999
+602,Germany,road_kill_rate,2016,3.901397401
+603,Greece,road_kill_rate,2016,7.6411281120000005
+604,Hungary,road_kill_rate,2016,6.174669917
+605,Iceland,road_kill_rate,2016,5.413061718
+606,Ireland,road_kill_rate,2016,3.936741225
+607,Israel,road_kill_rate,2016,4.368988295
+608,Italy,road_kill_rate,2016,5.411637982
+609,Japan,road_kill_rate,2016,3.701165182
+610,Korea,road_kill_rate,2016,8.379898685
+611,Lithuania,road_kill_rate,2016,6.646915174
+612,Luxembourg,road_kill_rate,2016,5.553154973
+613,Netherlands,road_kill_rate,2016,3.139149732
+614,New Zealand,road_kill_rate,2016,6.967824418999999
+615,Norway,road_kill_rate,2016,2.590812289
+616,Poland,road_kill_rate,2016,7.970035406
+617,Portugal,road_kill_rate,2016,5.444174009
+618,Serbia,road_kill_rate,2016,8.577841866
+619,Slovenia,road_kill_rate,2016,6.297875969
+620,Spain,road_kill_rate,2016,3.897493845
+621,Sweden,road_kill_rate,2016,2.7408337639999996
+622,Switzerland,road_kill_rate,2016,2.5939321680000003
+623,United Kingdom,road_kill_rate,2016,2.794333998
+624,United States,road_kill_rate,2016,11.68995244
+625,Argentina,road_kill_rate,2016,12.73217056
+626,Chile,road_kill_rate,2016,11.97237186
+627,Australia,road_kill_rate,2017,4.979298313
+628,Austria,road_kill_rate,2017,4.719096897
+629,Belgium,road_kill_rate,2017,5.364822463
+630,Canada,road_kill_rate,2017,5.016148811
+631,Czech Republic,road_kill_rate,2017,5.454294524
+632,Denmark,road_kill_rate,2017,3.0441299689999997
+633,Finland,road_kill_rate,2017,4.324574193
+634,France,road_kill_rate,2017,5.147107328
+635,Germany,road_kill_rate,2017,3.853534054
+636,Greece,road_kill_rate,2017,6.788511313
+637,Hungary,road_kill_rate,2017,6.368932022999999
+638,Iceland,road_kill_rate,2017,4.728845068
+639,Ireland,road_kill_rate,2017,3.3
+640,Israel,road_kill_rate,2017,4.17752172
+641,Italy,road_kill_rate,2017,5.575228491
+642,Japan,road_kill_rate,2017,3.4970719619999997
+643,Korea,road_kill_rate,2017,8.148061313
+644,Lithuania,road_kill_rate,2017,6.741800285
+645,Luxembourg,road_kill_rate,2017,4.232503255
+646,Netherlands,road_kill_rate,2017,3.132042155
+647,New Zealand,road_kill_rate,2017,7.906210234
+648,Norway,road_kill_rate,2017,2.015854122
+649,Poland,road_kill_rate,2017,7.4553042529999995
+650,Portugal,road_kill_rate,2017,5.839233108999999
+651,Serbia,road_kill_rate,2017,8.224114067999999
+652,Slovenia,road_kill_rate,2017,5.034137747
+653,Spain,road_kill_rate,2017,3.93319678
+654,Sweden,road_kill_rate,2017,2.5212220359999997
+655,Switzerland,road_kill_rate,2017,2.7317374439999997
+656,United Kingdom,road_kill_rate,2017,2.8104081830000003
+657,United States,road_kill_rate,2017,11.40031122
+658,Argentina,road_kill_rate,2017,12.03
+659,Chile,road_kill_rate,2017,10.47680797
+660,Australia,road_kill_rate,2018,4.573306136
+661,Austria,road_kill_rate,2018,4.635996621
+662,Belgium,road_kill_rate,2018,5.298901469
+663,Canada,road_kill_rate,2018,..
+664,Czech Republic,road_kill_rate,2018,..
+665,Denmark,road_kill_rate,2018,..
+666,Finland,road_kill_rate,2018,4.081166234
+667,France,road_kill_rate,2018,..
+668,Germany,road_kill_rate,2018,3.955679432
+669,Greece,road_kill_rate,2018,6.423884188
+670,Hungary,road_kill_rate,2018,..
+671,Iceland,road_kill_rate,2018,5.165733965
+672,Ireland,road_kill_rate,2018,..
+673,Israel,road_kill_rate,2018,..
+674,Italy,road_kill_rate,2018,..
+675,Japan,road_kill_rate,2018,..
+676,Korea,road_kill_rate,2018,7.326577574
+677,Lithuania,road_kill_rate,2018,..
+678,Luxembourg,road_kill_rate,2018,5.980016777
+679,Netherlands,road_kill_rate,2018,..
+680,New Zealand,road_kill_rate,2018,..
+681,Norway,road_kill_rate,2018,2.039421643
+682,Poland,road_kill_rate,2018,..
+683,Portugal,road_kill_rate,2018,..
+684,Serbia,road_kill_rate,2018,7.798391303
+685,Slovenia,road_kill_rate,2018,..
+686,Spain,road_kill_rate,2018,3.870681765
+687,Sweden,road_kill_rate,2018,3.20150447
+688,Switzerland,road_kill_rate,2018,2.746303982
+689,United Kingdom,road_kill_rate,2018,..
+690,United States,road_kill_rate,2018,..
+691,Argentina,road_kill_rate,2018,..
+692,Chile,road_kill_rate,2018,10.53782356
